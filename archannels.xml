@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
  <!-- BEIN -->
- <channel site="bein.com" site_id="sports#1" lang="en" xmltv_id="beINSportsNews.qa@SD">AR| beIN Sports News</channel>
-  <channel site="bein.com" site_id="sports#2" lang="en" xmltv_id="beINSports.qa@MENA">AR| beIN Sports</channel>
-  <channel site="bein.com" site_id="sports#3" lang="en" xmltv_id="beINSports1.qa@MENA">AR| beIN Sports 1</channel>
-  <channel site="bein.com" site_id="sports#4" lang="en" xmltv_id="beINSports2.qa@MENA">AR| beIN Sports 2</channel>
-  <channel site="bein.com" site_id="sports#5" lang="en" xmltv_id="beINSports3.qa@MENA">AR| beIN Sports 3</channel>
-  <channel site="bein.com" site_id="sports#6" lang="en" xmltv_id="beINSports4.qa@MENA">AR| beIN Sports 4</channel>
-  <channel site="bein.com" site_id="sports#7" lang="en" xmltv_id="beINSports5.qa@MENA">AR| beIN Sports 5</channel>
-  <channel site="bein.com" site_id="sports#8" lang="en" xmltv_id="beINSports6.qa@MENA">AR| beIN Sports 6</channel>
-  <channel site="bein.com" site_id="sports#9" lang="en" xmltv_id="beINSports7.qa@MENA">AR| beIN Sports 7</channel>
+  <channel site="beinsports.com" site_id="0CB3E227-4376-4545-AB64-D6C390F644D8" lang="en" xmltv_id="beINSportsAFC1.qa@SD">AR| beIN SPORTS 1 AFC</channel>
+  <channel site="beinsports.com" site_id="0F8D20A4-D46C-4B18-9242-8E7B3E978FF8" lang="en" xmltv_id="beINSports8.qa@MENA">AR| beIN SPORTS 8</channel>
+  <channel site="beinsports.com" site_id="2BF668DF-1B76-4199-88CE-8691FD86AD8C" lang="en" xmltv_id="">AR| beIN SPORTS 6 AFC</channel>
+  <channel site="beinsports.com" site_id="2F518547-2269-4C07-93D5-2733397472BD" lang="en" xmltv_id="beINSportsNBA.qa@SD">AR| beIN SPORTS NBA</channel>
+  <channel site="beinsports.com" site_id="2FB43094-3598-43C1-A3BA-44BFB40092E0" lang="en" xmltv_id="beINSportsMax1.qa@MENA">AR| beIN SPORTS MAX 1</channel>
+  <channel site="beinsports.com" site_id="5B15611A-5F9D-4EF0-89A6-677C9CA2BD5D" lang="en" xmltv_id="beINSportsMax4.qa@MENA">AR| beIN SPORTS MAX 4</channel>
+  <channel site="beinsports.com" site_id="5C08D9D3-C713-4F1F-947E-87C761428B9B" lang="en" xmltv_id="">AR| beIN SPORTS 9</channel>
+  <channel site="beinsports.com" site_id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 4</channel>
+  <channel site="beinsports.com" site_id="7B558284-F996-4123-9584-1E5D01844270" lang="en" xmltv_id="beINSportsNews.qa@SD">AR| beIN SPORTS NEWS</channel>
+  <channel site="beinsports.com" site_id="008F0EA9-FCD9-4E8C-849A-913979E7450A" lang="en" xmltv_id="beINSportsMax2.qa@MENA">AR| beIN SPORTS MAX 2</channel>
+  <channel site="beinsports.com" site_id="8AEA2426-D451-4BA5-BF48-114A1F04B1A8" lang="en" xmltv_id="beINSports3.qa@MENA">AR| beIN SPORTS 3</channel>
+  <channel site="beinsports.com" site_id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839" lang="en" xmltv_id="">AR| beIN SPORTS EN 1</channel>
+  <channel site="beinsports.com" site_id="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 6</channel>
+  <channel site="beinsports.com" site_id="9B969275-E59C-4DD1-8FCA-8B01EAE04909" lang="en" xmltv_id="">AR| beIN SPORTS FR 2</channel>
+  <channel site="beinsports.com" site_id="10A2A142-F98C-4706-9FD0-2D3C36045D63" lang="en" xmltv_id="beINSportsAFC.qa@SD">AR| beIN SPORTS AFC</channel>
+  <channel site="beinsports.com" site_id="51D28C47-7B79-4007-81A3-BFDF9BC65A3B" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 5</channel>
+  <channel site="beinsports.com" site_id="67DD49E9-E3A2-4B3A-94B8-88C620A4DFB1" lang="en" xmltv_id="beIN4K.qa@SD">AR| beIN 4K</channel>
+  <channel site="beinsports.com" site_id="84F7E0C1-D47A-4444-BBA8-C50BB8D2C5A8" lang="en" xmltv_id="beINSports.qa@MENA">AR| beIN SPORTS</channel>
+  <channel site="beinsports.com" site_id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398" lang="en" xmltv_id="">AR| beIN SPORTS EN 2</channel>
+  <channel site="beinsports.com" site_id="1752F091-A114-4629-BED4-46E0BB488A24" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 7</channel>
+  <channel site="beinsports.com" site_id="7783DC02-4527-4094-9EE3-CDA8E093E4EB" lang="en" xmltv_id="beINSportsMax3.qa@MENA">AR| beIN SPORTS MAX 3</channel>
+  <channel site="beinsports.com" site_id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C" lang="en" xmltv_id="beINSports1.qa@MENA">AR| beIN SPORTS 1</channel>
+  <channel site="beinsports.com" site_id="42680C3C-580F-43DA-BDD8-02651BD10F32" lang="en" xmltv_id="">AR| beIN SPORTS 4 AFC</channel>
+  <channel site="beinsports.com" site_id="522050CE-EBD3-43EA-B636-42B034FDC05C" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 9</channel>
+  <channel site="beinsports.com" site_id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC" lang="en" xmltv_id="">AR| beIN SPORTS FR 1</channel>
+  <channel site="beinsports.com" site_id="27E67022-B943-4913-9AF3-AFD3DAC9854B" lang="en" xmltv_id="beINSportsXtra2.qa@SD">AR| beIN SPORTS XTRA 2</channel>
+  <channel site="beinsports.com" site_id="964E6246-CA95-410B-82C4-EA75DD979435" lang="en" xmltv_id="beINSports5.qa@MENA">AR| beIN SPORTS 5</channel>
+  <channel site="beinsports.com" site_id="A2D36A21-00D5-4001-A443-81CF2C06553F" lang="en" xmltv_id="beINSportsAFC3.qa@SD">AR| beIN SPORTS 3 AFC</channel>
+  <channel site="beinsports.com" site_id="A892063B-A5D9-4199-95AC-6A214515FA6B" lang="en" xmltv_id="beINSports7.qa@MENA">AR| beIN SPORTS 7</channel>
+  <channel site="beinsports.com" site_id="B0DBD19A-9F44-4197-BD09-2B6A5F315F3B" lang="en" xmltv_id="">AR| beIN SPORTS 5 AFC</channel>
+  <channel site="beinsports.com" site_id="CD634732-20D1-4137-94E7-939DE93D056D" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 8</channel>
+  <channel site="beinsports.com" site_id="CDF1A4C8-26DD-4C33-A239-F729A3B09295" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 3</channel>
+  <channel site="beinsports.com" site_id="DB9361E8-B3EB-4D6F-9A82-75B5F09E2F92" lang="en" xmltv_id="beINSports4.qa@MENA">AR| beIN SPORTS 4</channel>
+  <channel site="beinsports.com" site_id="DC04009D-7E18-4D1C-BA7F-7269B8F8D065" lang="en" xmltv_id="beINSportsMax6.qa@MENA">AR| beIN SPORTS MAX 6</channel>
+  <channel site="beinsports.com" site_id="E3B37FA0-E582-45B2-BB8E-516E1A714EF6" lang="en" xmltv_id="beINSportsXtra1.qa@SD">AR| beIN SPORTS XTRA 1</channel>
+  <channel site="beinsports.com" site_id="E24D9C11-A8B4-4C7F-AD3E-B3364FB6D5A2" lang="en" xmltv_id="beINSports6.qa@MENA">AR| beIN SPORTS 6</channel>
+  <channel site="beinsports.com" site_id="EEB3E4E8-0F9D-4735-943C-AEA3E39C87DE" lang="en" xmltv_id="beINSportsAFC2.qa@SD">AR| beIN SPORTS 2 AFC</channel>
+  <channel site="beinsports.com" site_id="F7215920-CCF9-4DBB-8B9D-152E232FA549" lang="en" xmltv_id="beINSportsMax5.qa@MENA">AR| beIN SPORTS MAX 5</channel>
+  <channel site="beinsports.com" site_id="FD1DD7DD-1E7B-4AA2-8682-BFA17338E653" lang="en" xmltv_id="beINSports2.qa@MENA">AR| beIN SPORTS 2</channel>
 
   <!-- MBC -->
 
@@ -367,6 +397,559 @@
   <channel site="canalplus.com" site_id="#1162" lang="fr" xmltv_id="">FR| CANAL+</channel>
   <channel site="canalplus.com" site_id="#1170" lang="fr" xmltv_id="">FR| CINE+ FESTIVAL (CH)</channel>
   <channel site="canalplus.com" site_id="#21120" lang="fr" xmltv_id="">FR| ARTE ALLEMAND</channel>
-  
+
+  <!-- SNRT -->
+  <channel site="snrt.ma" site_id="1208" lang="ar" xmltv_id="AlAoula.ma@SD">AR| Al Aoula</channel>
+  <channel site="snrt.ma" site_id="4069" lang="ar" xmltv_id="LaayouneTV.ma@SD">AR| Laâyoune</channel>
+  <channel site="snrt.ma" site_id="4070" lang="ar" xmltv_id="Arryadia.ma@HD">AR| Arryadia</channel>
+  <channel site="snrt.ma" site_id="4071" lang="ar" xmltv_id="Athaqafia.ma@SD">AR| Athaqafia</channel>
+  <channel site="snrt.ma" site_id="4072" lang="ar" xmltv_id="AlMaghribia.ma@SD">AR| Almaghribia</channel>
+  <channel site="snrt.ma" site_id="4073" lang="ar" xmltv_id="Assadissa.ma@SD">AR| Assadissa</channel>
+  <channel site="snrt.ma" site_id="4075" lang="ar" xmltv_id="TamazightTV.ma@SD">AR| Tamazight</channel>
+
+   <!-- SKY -->
+
+  <channel site="sky.com" site_id="1003" lang="en" xmltv_id="MUTV.uk@SD">UK| MUTV HD</channel>
+  <channel site="sky.com" site_id="1009" lang="en" xmltv_id="ARYQtv.pk@SD">UK| QTV Religious</channel>
+  <channel site="sky.com" site_id="1010" lang="en" xmltv_id="SkySportsPremierLeague.ie@HD">UK| SkySp PL HD</channel>
+  <channel site="sky.com" site_id="1011" lang="en" xmltv_id="PBC.uk@SD">UK| PBC</channel>
+  <channel site="sky.com" site_id="1016" lang="en" xmltv_id="ZeeTVUK.uk@HD">UK| Zee TV HD</channel>
+  <channel site="sky.com" site_id="1017" lang="en" xmltv_id="ThatsTV.uk@SD">UK| That&apos;s TV</channel>
+  <channel site="sky.com" site_id="1018" lang="en" xmltv_id="Cruise1stTV.uk@SD">UK| Cruise1st.tv</channel>
+  <channel site="sky.com" site_id="1019" lang="en" xmltv_id="CNNInternational.us@MENA">UK| CNN HD</channel>
+  <channel site="sky.com" site_id="1022" lang="en" xmltv_id="">UK| Sky Intro</channel>
+  <channel site="sky.com" site_id="1023" lang="en" xmltv_id="AlJazeera.qa@English">UK| Al Jazeera HD</channel>
+  <channel site="sky.com" site_id="1025" lang="en" xmltv_id="VirginMediaOne.ie@Plus1">UK| Virgin One+1</channel>
+  <channel site="sky.com" site_id="1026" lang="en" xmltv_id="NewVision.uk@SD">UK| New Vision TV</channel>
+  <channel site="sky.com" site_id="1028" lang="en" xmltv_id="Climax.uk@SD">UK| Climax</channel>
+  <channel site="sky.com" site_id="1029" lang="en" xmltv_id="XXXGirlGirl.uk@SD">UK| XXX Girl Girl</channel>
+  <channel site="sky.com" site_id="1030" lang="en" xmltv_id="RewindTV.uk@SD">UK| Rewind TV</channel>
+  <channel site="sky.com" site_id="1031" lang="en" xmltv_id="40Plus.uk@SD">UK| TVX 40+</channel>
+  <channel site="sky.com" site_id="1036" lang="en" xmltv_id="5Action.uk@SD">UK| 5ACTION</channel>
+  <channel site="sky.com" site_id="1041" lang="en" xmltv_id="PanjabTV.uk@SD">UK| Panjab TV</channel>
+  <channel site="sky.com" site_id="1042" lang="en" xmltv_id="GemsTV.uk@HD">UK| Gems TV HD</channel>
+  <channel site="sky.com" site_id="1043" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1044" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1045" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1046" lang="en" xmltv_id="VirginMediaTwo.ie@HD">UK| Virgin Two HD</channel>
+  <channel site="sky.com" site_id="1056" lang="en" xmltv_id="SkyCrime.ie@SD">UK| Sky Crime</channel>
+  <channel site="sky.com" site_id="1061" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1062" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1063" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1065" lang="en" xmltv_id="Blaze.uk@SD">UK| BLAZE</channel>
+  <channel site="sky.com" site_id="1066" lang="en" xmltv_id="ArirangWorld.kr@SD">UK| Arirang TV HD</channel>
+  <channel site="sky.com" site_id="1069" lang="en" xmltv_id="MasalaTV.pk@SD">UK| HUM Masala</channel>
+  <channel site="sky.com" site_id="1073" lang="en" xmltv_id="Film4.ie@SD">UK| Film4</channel>
+  <channel site="sky.com" site_id="1074" lang="en" xmltv_id="BloombergTV.us@Europe">UK| Bloomberg HD</channel>
+  <channel site="sky.com" site_id="1076" lang="en" xmltv_id="QVC.uk@HD">UK| QVC HD</channel>
+  <channel site="sky.com" site_id="1081" lang="en" xmltv_id="UDrama.uk@Plus1">UK| U&amp;Drama+1</channel>
+  <channel site="sky.com" site_id="1083" lang="en" xmltv_id="">UK| Heart 90s</channel>
+  <channel site="sky.com" site_id="1084" lang="en" xmltv_id="WION.in@SD">UK| WION HD</channel>
+  <channel site="sky.com" site_id="1088" lang="en" xmltv_id="CNBCEurope.uk@SD">UK| CNBC HD</channel>
+  <channel site="sky.com" site_id="1089" lang="en" xmltv_id="MustHaveIdeas.uk@HD">UK| MstHveIdeasHD</channel>
+  <channel site="sky.com" site_id="1090" lang="en" xmltv_id="ColorsGujarati.in@SD">UK| ColorsGujarati</channel>
+  <channel site="sky.com" site_id="1098" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">UK| BBC One NI HD</channel>
+  <channel site="sky.com" site_id="1099" lang="en" xmltv_id="TNTSportsBoxOffice2.uk@HD">UK| TNTSBoxOff2HD</channel>
+  <channel site="sky.com" site_id="1100" lang="en" xmltv_id="SanskarTV.in@SD">UK| Sanskar</channel>
+  <channel site="sky.com" site_id="1101" lang="en" xmltv_id="IdealWorldTV.uk@HD">UK| Ideal World HD</channel>
+  <channel site="sky.com" site_id="1102" lang="en" xmltv_id="">UK| Sky Intro</channel>
+  <channel site="sky.com" site_id="1103" lang="en" xmltv_id="Now90s00s.uk@Poland">UK| NOW 90s &amp; 00s</channel>
+  <channel site="sky.com" site_id="1104" lang="en" xmltv_id="A1TVRajasthan.in@SD">UK| Islam Bangla</channel>
+  <channel site="sky.com" site_id="1105" lang="en" xmltv_id="ColorsCineplex.in@SD">UK| ColorsCineplex</channel>
+  <channel site="sky.com" site_id="1113" lang="en" xmltv_id="TJC.uk@HD">UK| TJC HD</channel>
+  <channel site="sky.com" site_id="1114" lang="en" xmltv_id="">UK| Sky Intro</channel>
+  <channel site="sky.com" site_id="1118" lang="en" xmltv_id="QVCStyle.uk@HD">UK| QVC Style HD</channel>
+  <channel site="sky.com" site_id="1120" lang="en" xmltv_id="TNTSports1.uk@HD">UK| TNTSports1 HD</channel>
+  <channel site="sky.com" site_id="1121" lang="en" xmltv_id="France24.fr@English">UK| FRANCE 24 HD</channel>
+  <channel site="sky.com" site_id="1127" lang="en" xmltv_id="SkyDocumentaries.uk@SD">UK| SkyDocumntrs</channel>
+  <channel site="sky.com" site_id="1128" lang="en" xmltv_id="Quest.uk@HD">UK| QUEST HD</channel>
+  <channel site="sky.com" site_id="1130" lang="en" xmltv_id="Quest.uk@HD">UK| QUEST HD</channel>
+  <channel site="sky.com" site_id="1133" lang="en" xmltv_id="GREATromance.uk@Ireland">UK| Great!Christmas</channel>
+  <channel site="sky.com" site_id="1134" lang="en" xmltv_id="Thats60s.uk@SD">UK| That&apos;s TV 3</channel>
+  <channel site="sky.com" site_id="1135" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">UK| BBC Two NI HD</channel>
+  <channel site="sky.com" site_id="1136" lang="en" xmltv_id="SkyDocumentaries.uk@HD">UK| SkyDocmntrsHD</channel>
+  <channel site="sky.com" site_id="1138" lang="en" xmltv_id="BBCScotland.uk@HD">UK| BBCScotlandHD</channel>
+  <channel site="sky.com" site_id="1140" lang="en" xmltv_id="PhoenixCNEChannel.hk@HD">UK| PCNE Chinese HD</channel>
+  <channel site="sky.com" site_id="1142" lang="en" xmltv_id="TrueCrime.uk@SD">UK| TRUE CRIME</channel>
+  <channel site="sky.com" site_id="1143" lang="en" xmltv_id="SkyComedy.uk@HD">UK| Sky Comedy HD</channel>
+  <channel site="sky.com" site_id="1146" lang="en" xmltv_id="SkyComedy.ie@SD">UK| Sky Comedy</channel>
+  <channel site="sky.com" site_id="1147" lang="en" xmltv_id="SkyKids.uk@HD">UK| Sky Kids HD</channel>
+  <channel site="sky.com" site_id="1148" lang="en" xmltv_id="">UK| Virgin Radio</channel>
+  <channel site="sky.com" site_id="1158" lang="en" xmltv_id="RTE2.ie@Plus1">UK| RTÉ2+1</channel>
+  <channel site="sky.com" site_id="1165" lang="en" xmltv_id="SkyNature.uk@HD">UK| Sky Nature HD</channel>
+  <channel site="sky.com" site_id="1167" lang="en" xmltv_id="STV.uk@HD">UK| STV HD</channel>
+  <channel site="sky.com" site_id="1168" lang="en" xmltv_id="STV.uk@HD">UK| STV HD</channel>
+  <channel site="sky.com" site_id="1169" lang="en" xmltv_id="HobbyMaker.uk@HD">UK| HobbyMakerHD</channel>
+  <channel site="sky.com" site_id="1170" lang="en" xmltv_id="STV.uk@HD">UK| STV HD</channel>
+  <channel site="sky.com" site_id="1177" lang="en" xmltv_id="SkyComedy.uk@SD">UK| Sky Comedy</channel>
+  <channel site="sky.com" site_id="1188" lang="en" xmltv_id="ZeePunjabi.in@SD">UK| Zee Punjabi</channel>
+  <channel site="sky.com" site_id="1189" lang="en" xmltv_id="DMNews.uk@SD">UK| DM News English</channel>
+  <channel site="sky.com" site_id="1191" lang="en" xmltv_id="DunamisTV.ng@SD">UK| Dunamis TV</channel>
+  <channel site="sky.com" site_id="1194" lang="en" xmltv_id="SkyNature.uk@SD">UK| Sky Nature</channel>
+  <channel site="sky.com" site_id="1196" lang="en" xmltv_id="GBNews.uk@SD">UK| GB News HD</channel>
+  <channel site="sky.com" site_id="1199" lang="en" xmltv_id="SkyCinemaAnimation.uk@SD">UK| SkyAnimationHD</channel>
+  <channel site="sky.com" site_id="1200" lang="en" xmltv_id="E4Extra.uk@SD">UK| E4 Extra</channel>
+  <channel site="sky.com" site_id="1202" lang="en" xmltv_id="Channel4.uk@UKHD">UK| Channel 4 HD</channel>
+  <channel site="sky.com" site_id="1205" lang="en" xmltv_id="">UK| LBC News</channel>
+  <channel site="sky.com" site_id="1207" lang="en" xmltv_id="CourtTV.uk@SD">UK| Court TV</channel>
+  <channel site="sky.com" site_id="1208" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1209" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1210" lang="en" xmltv_id="TNTSportsBoxOffice.uk@HD">UK| TNTSBoxOffHD</channel>
+  <channel site="sky.com" site_id="1212" lang="en" xmltv_id="SkyCrime.uk@HD">UK| Sky Crime HD</channel>
+  <channel site="sky.com" site_id="1213" lang="en" xmltv_id="Channel4.uk@UKHD">UK| Channel 4 HD</channel>
+  <channel site="sky.com" site_id="1214" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1217" lang="en" xmltv_id="ITV1.uk@AngliaHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1219" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="1222" lang="en" xmltv_id="Thats90s.uk@SD">UK| That&apos;s Rock</channel>
+  <channel site="sky.com" site_id="1224" lang="en" xmltv_id="ThatsOldies.uk@SD">UK| That&apos;s Oldies</channel>
+  <channel site="sky.com" site_id="1226" lang="en" xmltv_id="Travelxp.in@SD">UK| Travelxp</channel>
+  <channel site="sky.com" site_id="1228" lang="en" xmltv_id="LoveWorldUK.ng@SD">UK| LoveWorld HD</channel>
+  <channel site="sky.com" site_id="1229" lang="en" xmltv_id="SkyArts.ie@SD">UK| Sky Arts</channel>
+  <channel site="sky.com" site_id="1230" lang="en" xmltv_id="SkyDocumentaries.ie@SD">UK| SkyDocumntrs</channel>
+  <channel site="sky.com" site_id="1232" lang="en" xmltv_id="TrueCrimeXtra.uk@SD">UK| TRUE CRIME X</channel>
+  <channel site="sky.com" site_id="1233" lang="en" xmltv_id="SkyNature.ie@SD">UK| Sky Nature</channel>
+  <channel site="sky.com" site_id="1234" lang="en" xmltv_id="TinyPop.uk@SD">UK| Tiny Pop</channel>
+  <channel site="sky.com" site_id="1235" lang="en" xmltv_id="DeenTV.uk@SD">UK| Deen TV</channel>
+  <channel site="sky.com" site_id="1246" lang="en" xmltv_id="Channel4.uk@IrelandHD">UK| Channel 4 HD</channel>
+  <channel site="sky.com" site_id="1248" lang="en" xmltv_id="Channel4.uk@UKHD">UK| Channel 4 HD</channel>
+  <channel site="sky.com" site_id="1249" lang="en" xmltv_id="Channel4.uk@UKHD">UK| Channel 4 HD</channel>
+  <channel site="sky.com" site_id="1250" lang="en" xmltv_id="Channel4.uk@IrelandHD">UK| Channel 4 HD</channel>
+  <channel site="sky.com" site_id="1256" lang="en" xmltv_id="RTEjr.ie@SD">UK| RTÉjr</channel>
+  <channel site="sky.com" site_id="1257" lang="en" xmltv_id="OireachtasTV.ie@SD">UK| Oireachtas TV</channel>
+  <channel site="sky.com" site_id="1260" lang="en" xmltv_id="Pitaara.in@SD">UK| Pitaara</channel>
+  <channel site="sky.com" site_id="1261" lang="en" xmltv_id="">UK| RTÉ Radio 1</channel>
+  <channel site="sky.com" site_id="1262" lang="en" xmltv_id="">UK| RTÉ 2FM</channel>
+  <channel site="sky.com" site_id="1263" lang="en" xmltv_id="">UK| RTÉ R na G</channel>
+  <channel site="sky.com" site_id="1264" lang="en" xmltv_id="">UK| RTÉ Lyric fm</channel>
+  <channel site="sky.com" site_id="1270" lang="en" xmltv_id="RTE2.ie@HD">UK| RTÉ2 HD</channel>
+  <channel site="sky.com" site_id="1275" lang="en" xmltv_id="SkyShowcase.uk@HD">UK| SkyShowcaseHD</channel>
+  <channel site="sky.com" site_id="1276" lang="en" xmltv_id="SkyShowcase.uk@SD">UK| Sky Showcase</channel>
+  <channel site="sky.com" site_id="1277" lang="en" xmltv_id="SkyShowcase.uk@Plus1">UK| SkyShowcase+1</channel>
+  <channel site="sky.com" site_id="1278" lang="en" xmltv_id="SkyShowcase.ie@HD">UK| SkyShowcaseHD</channel>
+  <channel site="sky.com" site_id="1279" lang="en" xmltv_id="SkyShowcase.ie@SD">UK| Sky Showcase</channel>
+  <channel site="sky.com" site_id="1284" lang="en" xmltv_id="SkySportsTennis.uk@SD">UK| SkySp Tennis HD</channel>
+  <channel site="sky.com" site_id="1285" lang="en" xmltv_id="SkySportsTennis.ie@SD">UK| SkySp Tennis</channel>
+  <channel site="sky.com" site_id="1288" lang="en" xmltv_id="TinyPop.uk@Plus1">UK| Tiny Pop+1</channel>
+  <channel site="sky.com" site_id="1289" lang="en" xmltv_id="PremierSports1.ie@HD">UK| Premier 1 HD</channel>
+  <channel site="sky.com" site_id="1290" lang="en" xmltv_id="PremierSports2.ie@HD">UK| Premier 2 HD</channel>
+  <channel site="sky.com" site_id="1302" lang="en" xmltv_id="SkySportsCricket.ie@SD">UK| SkySp Cricket</channel>
+  <channel site="sky.com" site_id="1305" lang="en" xmltv_id="ThatsMelody.uk@SD">UK| That&apos;s Melody</channel>
+  <channel site="sky.com" site_id="1306" lang="en" xmltv_id="SkySportsF1.ie@SD">UK| SkySp F1</channel>
+  <channel site="sky.com" site_id="1309" lang="en" xmltv_id="SkySportsMainEvent.ie@SD">UK| SkySpMainEv</channel>
+  <channel site="sky.com" site_id="1311" lang="en" xmltv_id="Thats70s.uk@SD">UK| That&apos;s TV 2</channel>
+  <channel site="sky.com" site_id="1312" lang="en" xmltv_id="SkySportsPremierLeague.ie@SD">UK| SkySp PL</channel>
+  <channel site="sky.com" site_id="1314" lang="en" xmltv_id="SkySportsNews.uk@SD">UK| SkySp News</channel>
+  <channel site="sky.com" site_id="1316" lang="en" xmltv_id="VirginMediaFour.ie@HD">UK| Virgin Four HD</channel>
+  <channel site="sky.com" site_id="1318" lang="en" xmltv_id="GREATmovies.uk@Ireland">UK| Great! Mystery</channel>
+  <channel site="sky.com" site_id="1319" lang="en" xmltv_id="SkySportsNews.ie@SD">UK| SkySp News</channel>
+  <channel site="sky.com" site_id="1320" lang="en" xmltv_id="GREATtv.ie@SD">UK| Great! TV</channel>
+  <channel site="sky.com" site_id="1324" lang="en" xmltv_id="SkySportsGolf.ie@SD">UK| SkySp Golf</channel>
+  <channel site="sky.com" site_id="1333" lang="en" xmltv_id="SkySportsNFL.ie@SD">UK| SkySp NFL</channel>
+  <channel site="sky.com" site_id="1351" lang="en" xmltv_id="DiscoveryScienceEurope.uk@UKPlus1">UK| Disc.Sci+1</channel>
+  <channel site="sky.com" site_id="1352" lang="en" xmltv_id="AnimalPlanet.uk@Plus1">UK| Animal Plnt+1</channel>
+  <channel site="sky.com" site_id="1370" lang="en" xmltv_id="DiscoveryChannel.uk@Ireland">UK| Discovery</channel>
+  <channel site="sky.com" site_id="1371" lang="en" xmltv_id="Cartoonito.uk@SD">UK| Cartoonito</channel>
+  <channel site="sky.com" site_id="1372" lang="en" xmltv_id="ColorsMENA.in@HD">UK| COLORS HD</channel>
+  <channel site="sky.com" site_id="1401" lang="en" xmltv_id="SkyMax.ie@SD">UK| Sky Max</channel>
+  <channel site="sky.com" site_id="1402" lang="en" xmltv_id="SkyMax.uk@SD">UK| Sky Max</channel>
+  <channel site="sky.com" site_id="1404" lang="en" xmltv_id="SkyNews.uk@SD">UK| Sky News</channel>
+  <channel site="sky.com" site_id="1406" lang="en" xmltv_id="SkyNews.ie@SD">UK| Sky News</channel>
+  <channel site="sky.com" site_id="1412" lang="en" xmltv_id="SkyAtlantic.uk@SD">UK| Sky Atlantic</channel>
+  <channel site="sky.com" site_id="1413" lang="en" xmltv_id="SkyAtlantic.uk@Plus1">UK| Sky Atlantic+1</channel>
+  <channel site="sky.com" site_id="1414" lang="en" xmltv_id="SkyAtlantic.ie@SD">UK| Sky Atlantic</channel>
+  <channel site="sky.com" site_id="1448" lang="en" xmltv_id="CrimePlusInvestigation.uk@SD">UK| Crime+Inv</channel>
+  <channel site="sky.com" site_id="1627" lang="en" xmltv_id="Film4.uk@SD">UK| Film4</channel>
+  <channel site="sky.com" site_id="1628" lang="en" xmltv_id="E4.uk@SD">UK| E4</channel>
+  <channel site="sky.com" site_id="1629" lang="en" xmltv_id="Film4.uk@Plus1">UK| Film4+1</channel>
+  <channel site="sky.com" site_id="1633" lang="en" xmltv_id="PremierSports1.ie@HD">UK| Premier 1 HD</channel>
+  <channel site="sky.com" site_id="1635" lang="en" xmltv_id="PremierSports2.ie@HD">UK| Premier 2 HD</channel>
+  <channel site="sky.com" site_id="1637" lang="en" xmltv_id="E4.ie@SD">UK| E4</channel>
+  <channel site="sky.com" site_id="1667" lang="en" xmltv_id="Channel4.uk@IrelandPlus1">UK| Channel 4+1</channel>
+  <channel site="sky.com" site_id="1670" lang="en" xmltv_id="Channel4.uk@UKPlus1">UK| Channel 4+1</channel>
+  <channel site="sky.com" site_id="1671" lang="en" xmltv_id="Channel4.uk@UKPlus1">UK| Channel 4+1</channel>
+  <channel site="sky.com" site_id="1673" lang="en" xmltv_id="Channel4.uk@UKPlus1">UK| Channel 4+1</channel>
+  <channel site="sky.com" site_id="1675" lang="en" xmltv_id="Channel4.uk@UKPlus1">UK| Channel 4+1</channel>
+  <channel site="sky.com" site_id="1752" lang="en" xmltv_id="SkyArts.uk@SD">UK| Sky Arts</channel>
+  <channel site="sky.com" site_id="1758" lang="en" xmltv_id="E4Extra.uk@SD">UK| E4 Extra</channel>
+  <channel site="sky.com" site_id="1771" lang="en" xmltv_id="UtsavPlus.uk@SD">UK| Utsav Plus</channel>
+  <channel site="sky.com" site_id="1800" lang="en" xmltv_id="Channel5.uk@SD">UK| 5</channel>
+  <channel site="sky.com" site_id="1806" lang="en" xmltv_id="NationalGeographic.uk@SD">UK| Nat Geo</channel>
+  <channel site="sky.com" site_id="1813" lang="en" xmltv_id="ComedyCentralExtra.uk@SD">UK| ComedyXtra</channel>
+  <channel site="sky.com" site_id="1821" lang="en" xmltv_id="NDTV24x7.in@SD">UK| NDTV World</channel>
+  <channel site="sky.com" site_id="1822" lang="en" xmltv_id="NationalGeographic.uk@Plus1">UK| Nat Geo+1</channel>
+  <channel site="sky.com" site_id="1831" lang="en" xmltv_id="SkyMix.uk@HD">UK| Sky Mix HD</channel>
+  <channel site="sky.com" site_id="1833" lang="en" xmltv_id="SkyReplay.uk@SD">UK| Sky Replay</channel>
+  <channel site="sky.com" site_id="1835" lang="en" xmltv_id="SkyReplay.ie@SD">UK| Sky Replay</channel>
+  <channel site="sky.com" site_id="1839" lang="en" xmltv_id="Channel5.uk@Plus1">UK| 5+1</channel>
+  <channel site="sky.com" site_id="1845" lang="en" xmltv_id="Nickelodeon.uk@Plus1">UK| Nickelodeon+1</channel>
+  <channel site="sky.com" site_id="1846" lang="en" xmltv_id="Nickelodeon.uk@SD">UK| Nickelodeon</channel>
+  <channel site="sky.com" site_id="1847" lang="en" xmltv_id="NationalGeographicWild.uk@SD">UK| Nat Geo Wild</channel>
+  <channel site="sky.com" site_id="1849" lang="en" xmltv_id="Nicktoons.uk@SD">UK| NickSpongeBob</channel>
+  <channel site="sky.com" site_id="1850" lang="en" xmltv_id="ChlLineup.uk@SD">UK| Chl Line-up</channel>
+  <channel site="sky.com" site_id="1857" lang="en" xmltv_id="NickJr.uk@SD">UK| Nick Jr.</channel>
+  <channel site="sky.com" site_id="1861" lang="en" xmltv_id="Cula4.ie@HD">UK| Cúla4 HD</channel>
+  <channel site="sky.com" site_id="1865" lang="en" xmltv_id="DMAX.uk@UKPlus1">UK| DMAX+1</channel>
+  <channel site="sky.com" site_id="1872" lang="en" xmltv_id="TogetherTV.uk@SD">UK| Together</channel>
+  <channel site="sky.com" site_id="1875" lang="en" xmltv_id="SkyHistory.uk@SD">UK| Sky History</channel>
+  <channel site="sky.com" site_id="1879" lang="en" xmltv_id="SkyHistory2.uk@SD">UK| Sky History2</channel>
+  <channel site="sky.com" site_id="2021" lang="en" xmltv_id="">UK| BBC R Cymru 2</channel>
+  <channel site="sky.com" site_id="2026" lang="en" xmltv_id="">UK| BBC R5L</channel>
+  <channel site="sky.com" site_id="2034" lang="en" xmltv_id="">UK| BBC R5SX</channel>
+  <channel site="sky.com" site_id="2053" lang="en" xmltv_id="BBCRedButton1.uk@HD">UK| BBC RB 1 HD</channel>
+  <channel site="sky.com" site_id="2075" lang="en" xmltv_id="BBCTwo.uk@HD">UK| BBC Two HD</channel>
+  <channel site="sky.com" site_id="2077" lang="en" xmltv_id="CBBC.ie@HD">UK| CBBC HD</channel>
+  <channel site="sky.com" site_id="2078" lang="en" xmltv_id="CBBC.uk@HD">UK| CBBC HD</channel>
+  <channel site="sky.com" site_id="2080" lang="en" xmltv_id="BBCThree.uk@HD">UK| BBC Three HD</channel>
+  <channel site="sky.com" site_id="2081" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">UK| BBC One NI HD</channel>
+  <channel site="sky.com" site_id="2082" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">UK| BBC One ScotHD</channel>
+  <channel site="sky.com" site_id="2083" lang="en" xmltv_id="BBCOne.uk@WalesHD">UK| BBC One Wal HD</channel>
+  <channel site="sky.com" site_id="2084" lang="en" xmltv_id="">UK| BBC Three HD</channel>
+  <channel site="sky.com" site_id="2085" lang="en" xmltv_id="BBCNews.uk@UKHD">UK| BBC NEWS HD</channel>
+  <channel site="sky.com" site_id="2086" lang="en" xmltv_id="BBCFour.uk@UKHD">UK| BBC Four HD</channel>
+  <channel site="sky.com" site_id="2088" lang="en" xmltv_id="CBeebies.uk@HD">UK| CBeebies HD</channel>
+  <channel site="sky.com" site_id="2090" lang="en" xmltv_id="CBeebies.ie@HD">UK| CBeebies HD</channel>
+  <channel site="sky.com" site_id="2091" lang="en" xmltv_id="BBCFour.uk@IrelandHD">UK| BBC Four HD</channel>
+  <channel site="sky.com" site_id="2111" lang="en" xmltv_id="">UK| BBC R1</channel>
+  <channel site="sky.com" site_id="2112" lang="en" xmltv_id="">UK| BBC R2</channel>
+  <channel site="sky.com" site_id="2113" lang="en" xmltv_id="">UK| BBC R3</channel>
+  <channel site="sky.com" site_id="2114" lang="en" xmltv_id="">UK| BBC R4</channel>
+  <channel site="sky.com" site_id="2117" lang="en" xmltv_id="">UK| BBC R Scot</channel>
+  <channel site="sky.com" site_id="2118" lang="en" xmltv_id="">UK| BBC R Wales</channel>
+  <channel site="sky.com" site_id="2119" lang="en" xmltv_id="">UK| BBC R Ulster</channel>
+  <channel site="sky.com" site_id="2120" lang="en" xmltv_id="">UK| BBC Asian Net</channel>
+  <channel site="sky.com" site_id="2122" lang="en" xmltv_id="">UK| BBC World Sv</channel>
+  <channel site="sky.com" site_id="2123" lang="en" xmltv_id="">UK| BBC R Cymru</channel>
+  <channel site="sky.com" site_id="2124" lang="en" xmltv_id="">UK| BBC R Foyle</channel>
+  <channel site="sky.com" site_id="2126" lang="en" xmltv_id="">UK| BBC R1X</channel>
+  <channel site="sky.com" site_id="2127" lang="en" xmltv_id="">UK| BBC R6 Music</channel>
+  <channel site="sky.com" site_id="2128" lang="en" xmltv_id="">UK| BBC R4 Extra</channel>
+  <channel site="sky.com" site_id="2129" lang="en" xmltv_id="">UK| BBC RnGàid</channel>
+  <channel site="sky.com" site_id="2130" lang="en" xmltv_id="">UK| BBC R London</channel>
+  <channel site="sky.com" site_id="2201" lang="en" xmltv_id="SkyWitness.uk@SD">UK| Sky Witness</channel>
+  <channel site="sky.com" site_id="2202" lang="en" xmltv_id="Challenge.uk@SD">UK| Challenge</channel>
+  <channel site="sky.com" site_id="2203" lang="en" xmltv_id="Challenge.ie@SD">UK| Challenge</channel>
+  <channel site="sky.com" site_id="2205" lang="en" xmltv_id="SkyWitness.uk@Plus1">UK| Sky Witness+1</channel>
+  <channel site="sky.com" site_id="2207" lang="en" xmltv_id="SkyCrime.uk@SD">UK| Sky Crime</channel>
+  <channel site="sky.com" site_id="2296" lang="en" xmltv_id="S4C.uk@HD">UK| S4C HD</channel>
+  <channel site="sky.com" site_id="2301" lang="en" xmltv_id="HGTV.uk@SD">UK| HGTV</channel>
+  <channel site="sky.com" site_id="2302" lang="en" xmltv_id="UEden.uk@SD">UK| U&amp;Eden</channel>
+  <channel site="sky.com" site_id="2303" lang="en" xmltv_id="UAlibi.uk@SD">UK| U&amp;Alibi</channel>
+  <channel site="sky.com" site_id="2304" lang="en" xmltv_id="UGold.uk@SD">UK| U&amp;Gold</channel>
+  <channel site="sky.com" site_id="2305" lang="en" xmltv_id="UYesterday.uk@SD">UK| U&amp;Yesterday</channel>
+  <channel site="sky.com" site_id="2306" lang="en" xmltv_id="UDave.uk@SD">UK| U&amp;Dave</channel>
+  <channel site="sky.com" site_id="2307" lang="en" xmltv_id="UEden.uk@Plus1">UK| U&amp;Eden+1</channel>
+  <channel site="sky.com" site_id="2309" lang="en" xmltv_id="HGTV.uk@Plus1">UK| HGTV+1</channel>
+  <channel site="sky.com" site_id="2320" lang="en" xmltv_id="UDaveJaVu.uk@SD">UK| U&amp;DaveJaVu</channel>
+  <channel site="sky.com" site_id="2324" lang="en" xmltv_id="Really.ie@SD">UK| Really</channel>
+  <channel site="sky.com" site_id="2325" lang="en" xmltv_id="Really.uk@SD">UK| Really</channel>
+  <channel site="sky.com" site_id="2330" lang="en" xmltv_id="alibi.ie@SD">UK| U&amp;Alibi</channel>
+  <channel site="sky.com" site_id="2365" lang="en" xmltv_id="UGold.uk@SD">UK| U&amp;Gold</channel>
+  <channel site="sky.com" site_id="2376" lang="en" xmltv_id="Dave.ie@SD">UK| U&amp;Dave</channel>
+  <channel site="sky.com" site_id="2401" lang="en" xmltv_id="DiscoveryChannel.uk@UK">UK| Discovery</channel>
+  <channel site="sky.com" site_id="2402" lang="en" xmltv_id="AnimalPlanet.uk@SD">UK| Animal Planet</channel>
+  <channel site="sky.com" site_id="2404" lang="en" xmltv_id="DiscoveryChannel.uk@UKPlus1">UK| Discovery+1</channel>
+  <channel site="sky.com" site_id="2405" lang="en" xmltv_id="TLC.ie@SD">UK| TLC</channel>
+  <channel site="sky.com" site_id="2406" lang="en" xmltv_id="DiscoveryScienceEurope.uk@UKHD">UK| Disc.Science</channel>
+  <channel site="sky.com" site_id="2407" lang="en" xmltv_id="DiscoveryHistory.uk@SD">UK| Disc.History</channel>
+  <channel site="sky.com" site_id="2408" lang="en" xmltv_id="HGTV.ie@SD">UK| HGTV</channel>
+  <channel site="sky.com" site_id="2409" lang="en" xmltv_id="DiscoveryTurbo.uk@SD">UK| Disc.Turbo</channel>
+  <channel site="sky.com" site_id="2410" lang="en" xmltv_id="QuestRed.ie@SD">UK| Quest Red</channel>
+  <channel site="sky.com" site_id="2411" lang="en" xmltv_id="QuestRed.uk@SD">UK| Quest Red</channel>
+  <channel site="sky.com" site_id="2413" lang="en" xmltv_id="InvestigationDiscovery.uk@SD">UK| ID</channel>
+  <channel site="sky.com" site_id="2418" lang="en" xmltv_id="InvestigationDiscovery.uk@SD">UK| ID</channel>
+  <channel site="sky.com" site_id="2501" lang="en" xmltv_id="MTV.uk@SD">UK| MTV</channel>
+  <channel site="sky.com" site_id="2505" lang="en" xmltv_id="SkySciFi.uk@SD">UK| Sky Sci-Fi</channel>
+  <channel site="sky.com" site_id="2506" lang="en" xmltv_id="MTVHits.uk@SD">UK| Club MTV</channel>
+  <channel site="sky.com" site_id="2508" lang="en" xmltv_id="MTVBase.uk@SD">UK| MTV 90s</channel>
+  <channel site="sky.com" site_id="2509" lang="en" xmltv_id="MTVClassic.uk@SD">UK| MTV 80s</channel>
+  <channel site="sky.com" site_id="2510" lang="en" xmltv_id="ComedyCentral.uk@SD">UK| ComedyCentral</channel>
+  <channel site="sky.com" site_id="2512" lang="en" xmltv_id="MTVMusic.uk@SD">UK| MTV MUSIC</channel>
+  <channel site="sky.com" site_id="2516" lang="en" xmltv_id="MTV.ie@SD">UK| MTV</channel>
+  <channel site="sky.com" site_id="2517" lang="en" xmltv_id="Nickelodeon.ie@SD">UK| Nickelodeon</channel>
+  <channel site="sky.com" site_id="2601" lang="en" xmltv_id="SonyEntertainmentTelevisionAsia.in@SD">UK| SONY TV</channel>
+  <channel site="sky.com" site_id="2603" lang="en" xmltv_id="SonyMax.uk@SD">UK| SONY MAX</channel>
+  <channel site="sky.com" site_id="2607" lang="en" xmltv_id="ZeeTVUK.uk@SD">UK| Zee TV</channel>
+  <channel site="sky.com" site_id="2608" lang="en" xmltv_id="ZeeCinema.in@SD">UK| Zee Cinema</channel>
+  <channel site="sky.com" site_id="2612" lang="en" xmltv_id="UDrama.uk@SD">UK| U&amp;Drama</channel>
+  <channel site="sky.com" site_id="2613" lang="en" xmltv_id="Drama.ie@SD">UK| U&amp;Drama</channel>
+  <channel site="sky.com" site_id="2615" lang="en" xmltv_id="UYesterday.uk@Plus1">UK| U&amp;Yesterday+1</channel>
+  <channel site="sky.com" site_id="2616" lang="en" xmltv_id="UW.uk@Plus1">UK| U&amp;W+1</channel>
+  <channel site="sky.com" site_id="2617" lang="en" xmltv_id="UW.uk@SD">UK| U&amp;W</channel>
+  <channel site="sky.com" site_id="2630" lang="en" xmltv_id="UAlibi.uk@Plus1">UK| U&amp;Alibi+1</channel>
+  <channel site="sky.com" site_id="2703" lang="en" xmltv_id="UGold.uk@Plus1">UK| U&amp;Gold+1</channel>
+  <channel site="sky.com" site_id="2709" lang="en" xmltv_id="ComedyCentralExtra.ie@SD">UK| ComedyXtra</channel>
+  <channel site="sky.com" site_id="2804" lang="en" xmltv_id="RTENews.ie@SD">UK| RTÉ News</channel>
+  <channel site="sky.com" site_id="2808" lang="en" xmltv_id="RTEOne.ie@Plus1">UK| RTÉ One+1</channel>
+  <channel site="sky.com" site_id="2816" lang="en" xmltv_id="RTEOne.ie@HD">UK| RTÉ One HD</channel>
+  <channel site="sky.com" site_id="2817" lang="en" xmltv_id="VirginMediaThree.ie@SD">UK| Virgin Three</channel>
+  <channel site="sky.com" site_id="2902" lang="en" xmltv_id="">UK| talkSPORT</channel>
+  <channel site="sky.com" site_id="2903" lang="en" xmltv_id="">UK| Gold Radio</channel>
+  <channel site="sky.com" site_id="2904" lang="en" xmltv_id="">UK| Radio X</channel>
+  <channel site="sky.com" site_id="2908" lang="en" xmltv_id="">UK| Capital</channel>
+  <channel site="sky.com" site_id="2909" lang="en" xmltv_id="">UK| Heart</channel>
+  <channel site="sky.com" site_id="2917" lang="en" xmltv_id="">UK| Smooth</channel>
+  <channel site="sky.com" site_id="2920" lang="en" xmltv_id="">UK| Heart Dance</channel>
+  <channel site="sky.com" site_id="2926" lang="en" xmltv_id="">UK| LBC</channel>
+  <channel site="sky.com" site_id="2928" lang="en" xmltv_id="">UK| Heart 80s</channel>
+  <channel site="sky.com" site_id="2971" lang="en" xmltv_id="">UK| Capital XTRA</channel>
+  <channel site="sky.com" site_id="3000" lang="en" xmltv_id="BBCOne.uk@LondonHD">UK| BBC One Lon HD</channel>
+  <channel site="sky.com" site_id="3001" lang="en" xmltv_id="BBCOne.uk@WestHD">UK| BBC One Wst HD</channel>
+  <channel site="sky.com" site_id="3003" lang="en" xmltv_id="BBCOne.uk@WestMidlandsHD">UK| BBC One WM HD</channel>
+  <channel site="sky.com" site_id="3004" lang="en" xmltv_id="BBCOne.uk@YorkshireLincolnshireHD">UK| BBC One Y&amp;L HD</channel>
+  <channel site="sky.com" site_id="3005" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">UK| BBC One EMidHD</channel>
+  <channel site="sky.com" site_id="3006" lang="en" xmltv_id="BBCOne.uk@EastHD">UK| BBC One EastHD</channel>
+  <channel site="sky.com" site_id="3007" lang="en" xmltv_id="BBCOne.uk@NorthWestHD">UK| BBC One NW HD</channel>
+  <channel site="sky.com" site_id="3008" lang="en" xmltv_id="BBCOne.uk@SouthEastHD">UK| BBC One SE HD</channel>
+  <channel site="sky.com" site_id="3009" lang="en" xmltv_id="BBCOne.uk@NorthEastCumbriaHD">UK| BBC One NE HD</channel>
+  <channel site="sky.com" site_id="3011" lang="en" xmltv_id="BBCOne.uk@SouthHD">UK| BBC One Sth HD</channel>
+  <channel site="sky.com" site_id="3012" lang="en" xmltv_id="SkyCrime.ie@HD">UK| Sky Crime HD</channel>
+  <channel site="sky.com" site_id="3014" lang="en" xmltv_id="BBCOne.uk@SouthWestHD">UK| BBC One SW HD</channel>
+  <channel site="sky.com" site_id="3015" lang="en" xmltv_id="BBCTwo.uk@WalesHD">UK| BBC Two Wal HD</channel>
+  <channel site="sky.com" site_id="3017" lang="en" xmltv_id="BBCOne.uk@YorkshireHD">UK| BBC One Yks HD</channel>
+  <channel site="sky.com" site_id="3018" lang="en" xmltv_id="BBCOne.uk@ChannelIslandsHD">UK| BBC One CI HD</channel>
+  <channel site="sky.com" site_id="3019" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">UK| BBC Two NI HD</channel>
+  <channel site="sky.com" site_id="3020" lang="en" xmltv_id="BBCParliament.uk@HD">UK| BBC Parl HD</channel>
+  <channel site="sky.com" site_id="3021" lang="en" xmltv_id="">UK| BBC ALBA HD</channel>
+  <channel site="sky.com" site_id="3022" lang="en" xmltv_id="5USA.uk@SD">UK| 5 USA</channel>
+  <channel site="sky.com" site_id="3023" lang="en" xmltv_id="5STAR.uk@SD">UK| 5STAR</channel>
+  <channel site="sky.com" site_id="3024" lang="en" xmltv_id="5STAR.uk@Plus1">UK| 5STAR+1</channel>
+  <channel site="sky.com" site_id="3026" lang="en" xmltv_id="ITVBe.uk@HD">UK| ITV Quiz HD</channel>
+  <channel site="sky.com" site_id="3027" lang="en" xmltv_id="5USA.uk@Plus1">UK| 5USA+1</channel>
+  <channel site="sky.com" site_id="3028" lang="en" xmltv_id="5SELECT.uk@SD">UK| 5SELECT</channel>
+  <channel site="sky.com" site_id="3049" lang="en" xmltv_id="SkySportsGolf.ie@HD">UK| SkySp Golf HD</channel>
+  <channel site="sky.com" site_id="3051" lang="en" xmltv_id="SkyWitness.ie@HD">UK| Sky Witness HD</channel>
+  <channel site="sky.com" site_id="3052" lang="en" xmltv_id="SkyMix.ie@HD">UK| Sky Mix HD</channel>
+  <channel site="sky.com" site_id="3062" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="3063" lang="en" xmltv_id="ITV1.uk@BorderScotlandHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="3077" lang="en" xmltv_id="alibi.ie@HD">UK| U&amp;Alibi HD</channel>
+  <channel site="sky.com" site_id="3078" lang="en" xmltv_id="Dave.ie@HD">UK| U&amp;Dave HD</channel>
+  <channel site="sky.com" site_id="3105" lang="en" xmltv_id="GODTV.uk@SD">UK| GOD Channel</channel>
+  <channel site="sky.com" site_id="3109" lang="en" xmltv_id="TBNUK.uk@SD">UK| TBN UK</channel>
+  <channel site="sky.com" site_id="3111" lang="en" xmltv_id="EmanChannel.uk@SD">UK| Eman Channel</channel>
+  <channel site="sky.com" site_id="3116" lang="en" xmltv_id="RevelationTV.uk@SD">UK| revelation</channel>
+  <channel site="sky.com" site_id="3117" lang="en" xmltv_id="EWTN.us@English">UK| EWTN Catholic</channel>
+  <channel site="sky.com" site_id="3141" lang="en" xmltv_id="TNTSports4.uk@SD">UK| TNT Sports 4</channel>
+  <channel site="sky.com" site_id="3147" lang="en" xmltv_id="NHKWorldJapan.jp@SD">UK| NHK World HD</channel>
+  <channel site="sky.com" site_id="3150" lang="en" xmltv_id="4seven.uk@SD">UK| 4seven</channel>
+  <channel site="sky.com" site_id="3202" lang="en" xmltv_id="MTA1World.uk@HD">UK| MTA1 World HD</channel>
+  <channel site="sky.com" site_id="3214" lang="en" xmltv_id="IslamChannel.uk@SD">UK| Islam Channel</channel>
+  <channel site="sky.com" site_id="3255" lang="en" xmltv_id="AajTak.in@SD">UK| AAJ TAK</channel>
+  <channel site="sky.com" site_id="3300" lang="en" xmltv_id="E4.uk@Plus1">UK| E4+1</channel>
+  <channel site="sky.com" site_id="3310" lang="en" xmltv_id="More4.uk@Plus1">UK| More4+1</channel>
+  <channel site="sky.com" site_id="3340" lang="en" xmltv_id="More4.uk@SD">UK| More4</channel>
+  <channel site="sky.com" site_id="3352" lang="en" xmltv_id="TrueCrime.uk@SD">UK| TRUE CRIME</channel>
+  <channel site="sky.com" site_id="3354" lang="en" xmltv_id="JewelleryMaker.uk@SD">UK| JewelleryMaker</channel>
+  <channel site="sky.com" site_id="3355" lang="en" xmltv_id="SangatTV.uk@SD">UK| Sangat</channel>
+  <channel site="sky.com" site_id="3356" lang="en" xmltv_id="NickJr.ie@SD">UK| Nick Jr.</channel>
+  <channel site="sky.com" site_id="3359" lang="en" xmltv_id="QVCExtra.uk@SD">UK| QVC Extra</channel>
+  <channel site="sky.com" site_id="3360" lang="en" xmltv_id="More4.ie@SD">UK| More4</channel>
+  <channel site="sky.com" site_id="3363" lang="en" xmltv_id="">UK| Panjab Radio</channel>
+  <channel site="sky.com" site_id="3371" lang="en" xmltv_id="">UK| BFBS Radio</channel>
+  <channel site="sky.com" site_id="3392" lang="en" xmltv_id="">UK| SonLife</channel>
+  <channel site="sky.com" site_id="3400" lang="en" xmltv_id="Babenation.uk@SD">UK| Babenation</channel>
+  <channel site="sky.com" site_id="3401" lang="en" xmltv_id="MATVChannel.uk@SD">UK| MATV National</channel>
+  <channel site="sky.com" site_id="3403" lang="en" xmltv_id="Now70s.uk@SD">UK| NOW 70s</channel>
+  <channel site="sky.com" site_id="3404" lang="en" xmltv_id="HighStreetTV3.uk@SD">UK| High Street TV 3</channel>
+  <channel site="sky.com" site_id="3421" lang="en" xmltv_id="PoliticsPunjab.uk@SD">UK| PoliticsPunjab</channel>
+  <channel site="sky.com" site_id="3470" lang="en" xmltv_id="">UK| Classic FM</channel>
+  <channel site="sky.com" site_id="3580" lang="en" xmltv_id="HighStreetTV1.uk@SD">UK| High Street TV 1</channel>
+  <channel site="sky.com" site_id="3590" lang="en" xmltv_id="FoodNetwork.uk@SD">UK| Food Network</channel>
+  <channel site="sky.com" site_id="3592" lang="en" xmltv_id="FoodNetwork.uk@Plus1">UK| Food Netwrk+1</channel>
+  <channel site="sky.com" site_id="3594" lang="en" xmltv_id="Aastha.in@SD">UK| Aastha</channel>
+  <channel site="sky.com" site_id="3602" lang="en" xmltv_id="CBSReality.uk@Plus1">UK| TRUE CRIME+1</channel>
+  <channel site="sky.com" site_id="3605" lang="en" xmltv_id="HorrorXtra.uk@SD">UK| LEGEND XTRA</channel>
+  <channel site="sky.com" site_id="3608" lang="en" xmltv_id="UtsavBharat.uk@SD">UK| Utsav Bharat</channel>
+  <channel site="sky.com" site_id="3613" lang="en" xmltv_id="UtsavGold.in@SD">UK| Utsav Gold</channel>
+  <channel site="sky.com" site_id="3617" lang="en" xmltv_id="RealityXtra.uk@SD">UK| TRUE CRIME X</channel>
+  <channel site="sky.com" site_id="3618" lang="en" xmltv_id="DMAX.uk@UK">UK| DMAX</channel>
+  <channel site="sky.com" site_id="3620" lang="en" xmltv_id="CrimePlusInvestigation.uk@Plus1">UK| Crime+Inv+1</channel>
+  <channel site="sky.com" site_id="3621" lang="en" xmltv_id="Quest.uk@Plus1">UK| QUEST+1</channel>
+  <channel site="sky.com" site_id="3625" lang="en" xmltv_id="TNTSports1.uk@HD">UK| TNTSports1 HD</channel>
+  <channel site="sky.com" site_id="3627" lang="en" xmltv_id="TNTSports2.uk@HD">UK| TNTSports2 HD</channel>
+  <channel site="sky.com" site_id="3629" lang="en" xmltv_id="TNTSports3.uk@HD">UK| TNTSports3 HD</channel>
+  <channel site="sky.com" site_id="3631" lang="en" xmltv_id="SonySABAsia.in@SD">UK| SONY SAB</channel>
+  <channel site="sky.com" site_id="3632" lang="en" xmltv_id="TVWarehouse.uk@SD">UK| TV Warehouse</channel>
+  <channel site="sky.com" site_id="3636" lang="en" xmltv_id="RacingTV.uk@SD">UK| Racing TV</channel>
+  <channel site="sky.com" site_id="3643" lang="en" xmltv_id="GREATromance.uk@UK">UK| Great!Christmas</channel>
+  <channel site="sky.com" site_id="3645" lang="en" xmltv_id="BabyTV.uk@UK">UK| BabyTV</channel>
+  <channel site="sky.com" site_id="3650" lang="en" xmltv_id="SikhChannel.uk@SD">UK| Sikh Channel</channel>
+  <channel site="sky.com" site_id="3661" lang="en" xmltv_id="TNTSports1.uk@SD">UK| TNT Sports 1</channel>
+  <channel site="sky.com" site_id="3663" lang="en" xmltv_id="TNTSports2.uk@SD">UK| TNT Sports 2</channel>
+  <channel site="sky.com" site_id="3682" lang="en" xmltv_id="NOWRock.uk@SD">UK| NOW ROCK</channel>
+  <channel site="sky.com" site_id="3705" lang="en" xmltv_id="ComedyCentral.ie@SD">UK| ComedyCentral</channel>
+  <channel site="sky.com" site_id="3708" lang="en" xmltv_id="GREATaction.uk@SD">UK| Great! Action</channel>
+  <channel site="sky.com" site_id="3709" lang="en" xmltv_id="GREATmovies.uk@UK">UK| Great! Mystery</channel>
+  <channel site="sky.com" site_id="3714" lang="en" xmltv_id="Colors.in@SD">UK| COLORS</channel>
+  <channel site="sky.com" site_id="3715" lang="en" xmltv_id="NoorTV.uk@SD">UK| Noor TV</channel>
+  <channel site="sky.com" site_id="3721" lang="en" xmltv_id="GREATaction.uk@Plus1">UK| Great! Action+1</channel>
+  <channel site="sky.com" site_id="3731" lang="en" xmltv_id="KWSMLD3.us@SD">UK| NTD</channel>
+  <channel site="sky.com" site_id="3750" lang="en" xmltv_id="Pop.uk@SD">UK| POP</channel>
+  <channel site="sky.com" site_id="3751" lang="en" xmltv_id="GREATromance.uk@UKPlus1">UK| Great! Xmas+1</channel>
+  <channel site="sky.com" site_id="3753" lang="en" xmltv_id="KanshiTV.uk@SD">UK| Kanshi TV</channel>
+  <channel site="sky.com" site_id="3760" lang="en" xmltv_id="DiscoveryHistory.uk@Plus1">UK| Disc.History+1</channel>
+  <channel site="sky.com" site_id="3771" lang="en" xmltv_id="GREATmovies.uk@UKPlus1">UK| G! Mystery+1</channel>
+  <channel site="sky.com" site_id="3802" lang="en" xmltv_id="ComedyCentral.uk@Plus1">UK| ComedyCent+1</channel>
+  <channel site="sky.com" site_id="3809" lang="en" xmltv_id="UDave.uk@HD">UK| U&amp;Dave HD</channel>
+  <channel site="sky.com" site_id="3812" lang="en" xmltv_id="TLC.uk@HD">UK| TLC HD</channel>
+  <channel site="sky.com" site_id="3815" lang="en" xmltv_id="ChannelS.uk@SD">UK| CHSTV</channel>
+  <channel site="sky.com" site_id="3825" lang="en" xmltv_id="UAlibi.uk@HD">UK| U&amp;Alibi HD</channel>
+  <channel site="sky.com" site_id="3831" lang="en" xmltv_id="MTV.uk@HD">UK| MTV HD</channel>
+  <channel site="sky.com" site_id="3835" lang="en" xmltv_id="SkySportsF1.uk@HD">UK| SkySp F1 HD</channel>
+  <channel site="sky.com" site_id="3839" lang="en" xmltv_id="SkySportsArena.ie@SD">UK| SkySp+</channel>
+  <channel site="sky.com" site_id="3840" lang="en" xmltv_id="SkySportsFootball.ie@SD">UK| SkySp F&apos;ball</channel>
+  <channel site="sky.com" site_id="3845" lang="en" xmltv_id="LFCTV.uk@SD">UK| LFCTV HD</channel>
+  <channel site="sky.com" site_id="3881" lang="en" xmltv_id="VirginMediaOne.ie@HD">UK| Virgin One HD</channel>
+  <channel site="sky.com" site_id="3914" lang="en" xmltv_id="IqraBangla.uk@SD">UK| IQRA Bangla</channel>
+  <channel site="sky.com" site_id="3916" lang="en" xmltv_id="ColorsRishteyEurope.in@SD">UK| ColorsRishtey</channel>
+  <channel site="sky.com" site_id="3939" lang="en" xmltv_id="SkySportsFootball.uk@HD">UK| SkySp F&apos;ball HD</channel>
+  <channel site="sky.com" site_id="3940" lang="en" xmltv_id="SkySportsArena.uk@HD">UK| SkySp+ HD</channel>
+  <channel site="sky.com" site_id="4002" lang="en" xmltv_id="SkySportsMainEvent.uk@HD">UK| SkySpMainEvHD</channel>
+  <channel site="sky.com" site_id="4003" lang="en" xmltv_id="DiscoveryChannel.uk@UKHD">UK| Discovery HD</channel>
+  <channel site="sky.com" site_id="4007" lang="en" xmltv_id="SkySportsMainEvent.ie@HD">UK| SkySpMainEvHD</channel>
+  <channel site="sky.com" site_id="4010" lang="en" xmltv_id="SkySportsPremierLeague.uk@HD">UK| SkySp PL HD</channel>
+  <channel site="sky.com" site_id="4014" lang="en" xmltv_id="SkyCinemaAction.uk@HD">UK| Sky Action HD</channel>
+  <channel site="sky.com" site_id="4015" lang="en" xmltv_id="SkyCinemaGreats.uk@SD">UK| Sky Greats HD</channel>
+  <channel site="sky.com" site_id="4016" lang="en" xmltv_id="SkyCinemaDrama.uk@HD">UK| Sky Drama HD</channel>
+  <channel site="sky.com" site_id="4017" lang="en" xmltv_id="SkyCinemaSciFiHorror.uk@HD">UK| Sky Sci-Fi HD</channel>
+  <channel site="sky.com" site_id="4018" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">UK| Sky Family HD</channel>
+  <channel site="sky.com" site_id="4019" lang="en" xmltv_id="SkyCinemaComedy.uk@HD">UK| Sky Comedy HD</channel>
+  <channel site="sky.com" site_id="4020" lang="en" xmltv_id="SkyCinemaSelect.uk@SD">UK| Halloween HD</channel>
+  <channel site="sky.com" site_id="4021" lang="en" xmltv_id="SkyCinemaPremiere.uk@HD">UK| SkyPremiereHD</channel>
+  <channel site="sky.com" site_id="4022" lang="en" xmltv_id="SkySportsNFL.uk@HD">UK| SkySp NFL HD</channel>
+  <channel site="sky.com" site_id="4025" lang="en" xmltv_id="NationalGeographicWild.uk@HD">UK| NatGeoWild HD</channel>
+  <channel site="sky.com" site_id="4026" lang="en" xmltv_id="SkySportsGolf.uk@HD">UK| SkySp Golf HD</channel>
+  <channel site="sky.com" site_id="4030" lang="en" xmltv_id="Boomerang.uk@HD">UK| Boomerang HD</channel>
+  <channel site="sky.com" site_id="4031" lang="en" xmltv_id="NationalGeographic.uk@HD">UK| Nat Geo HD</channel>
+  <channel site="sky.com" site_id="4032" lang="en" xmltv_id="SkySportsRacing.uk@UKHD">UK| SkySp Racing HD</channel>
+  <channel site="sky.com" site_id="4033" lang="en" xmltv_id="SkyCinemaHits.uk@SD">UK| Sky Hits HD</channel>
+  <channel site="sky.com" site_id="4034" lang="en" xmltv_id="TG4.ie@HD">UK| TG4 HD</channel>
+  <channel site="sky.com" site_id="4035" lang="en" xmltv_id="SkySportsNews.ie@HD">UK| SkySp News HD</channel>
+  <channel site="sky.com" site_id="4037" lang="en" xmltv_id="SkySportsRacing.uk@IrelandHD">UK| SkySp Racing HD</channel>
+  <channel site="sky.com" site_id="4039" lang="en" xmltv_id="NickJr.uk@HD">UK| Nick Jr. HD</channel>
+  <channel site="sky.com" site_id="4040" lang="en" xmltv_id="TNTSports4.uk@HD">UK| TNTSports4 HD</channel>
+  <channel site="sky.com" site_id="4043" lang="en" xmltv_id="More4.uk@HD">UK| More4 HD</channel>
+  <channel site="sky.com" site_id="4044" lang="en" xmltv_id="Film4.uk@HD">UK| Film4 HD</channel>
+  <channel site="sky.com" site_id="4045" lang="en" xmltv_id="SonyEntertainmentTelevisionAsia.in@HD">UK| SONY TV HD</channel>
+  <channel site="sky.com" site_id="4046" lang="en" xmltv_id="SonyMax.uk@HD">UK| SONY MAX HD</channel>
+  <channel site="sky.com" site_id="4047" lang="en" xmltv_id="UtsavGold.in@HD">UK| Utsav Gold HD</channel>
+  <channel site="sky.com" site_id="4049" lang="en" xmltv_id="SkySportsNews.uk@HD">UK| SkySp News HD</channel>
+  <channel site="sky.com" site_id="4050" lang="en" xmltv_id="SkyNews.uk@HD">UK| Sky News HD</channel>
+  <channel site="sky.com" site_id="4053" lang="en" xmltv_id="SkyAtlantic.uk@HD">UK| Sky Atlantic HD</channel>
+  <channel site="sky.com" site_id="4054" lang="en" xmltv_id="SkyNews.ie@HD">UK| Sky News HD</channel>
+  <channel site="sky.com" site_id="4055" lang="en" xmltv_id="STV.uk@HD">UK| STV HD</channel>
+  <channel site="sky.com" site_id="4056" lang="en" xmltv_id="ComedyCentral.uk@HD">UK| ComedyCentHD</channel>
+  <channel site="sky.com" site_id="4058" lang="en" xmltv_id="Channel5.uk@HD">UK| 5 HD</channel>
+  <channel site="sky.com" site_id="4061" lang="en" xmltv_id="SkyMax.uk@HD">UK| Sky Max HD</channel>
+  <channel site="sky.com" site_id="4062" lang="en" xmltv_id="SkyCinemaThriller.uk@HD">UK| Sky Thriller HD</channel>
+  <channel site="sky.com" site_id="4063" lang="en" xmltv_id="SkyArts.uk@HD">UK| Sky Arts HD</channel>
+  <channel site="sky.com" site_id="4066" lang="en" xmltv_id="SkyWitness.uk@HD">UK| Sky Witness HD</channel>
+  <channel site="sky.com" site_id="4069" lang="en" xmltv_id="Nickelodeon.uk@HD">UK| NickelodeonHD</channel>
+  <channel site="sky.com" site_id="4074" lang="en" xmltv_id="SkySciFi.uk@HD">UK| Sky Sci-Fi HD</channel>
+  <channel site="sky.com" site_id="4075" lang="en" xmltv_id="Channel4.uk@UKHD">UK| Channel 4 HD</channel>
+  <channel site="sky.com" site_id="4076" lang="en" xmltv_id="E4.uk@HD">UK| E4 HD</channel>
+  <channel site="sky.com" site_id="4077" lang="en" xmltv_id="CartoonNetwork.uk@HD">UK| Cartoon Net HD</channel>
+  <channel site="sky.com" site_id="4081" lang="en" xmltv_id="SkySportsCricket.uk@HD">UK| SkySpCricket HD</channel>
+  <channel site="sky.com" site_id="4086" lang="en" xmltv_id="SkyHistory.uk@HD">UK| Sky HistoryHD</channel>
+  <channel site="sky.com" site_id="4088" lang="en" xmltv_id="CrimePlusInvestigation.uk@HD">UK| Crime+Inv HD</channel>
+  <channel site="sky.com" site_id="4090" lang="en" xmltv_id="SkySportsMix.uk@HD">UK| SkySp Mix HD</channel>
+  <channel site="sky.com" site_id="4091" lang="en" xmltv_id="SkySportsMix.uk@SD">UK| SkySp Mix</channel>
+  <channel site="sky.com" site_id="4100" lang="en" xmltv_id="BestDirect.uk@SD">UK| Best Direct</channel>
+  <channel site="sky.com" site_id="4105" lang="en" xmltv_id="QVCBeauty.uk@SD">UK| QVC Beauty</channel>
+  <channel site="sky.com" site_id="4110" lang="en" xmltv_id="GeoUK.pk@SD">UK| GEO TV</channel>
+  <channel site="sky.com" site_id="4158" lang="en" xmltv_id="">UK| WRN Europe</channel>
+  <channel site="sky.com" site_id="4163" lang="en" xmltv_id="">UK| EWTN Catholic</channel>
+  <channel site="sky.com" site_id="4191" lang="en" xmltv_id="XpandedTV.uk@SD">UK| Xpanded TV</channel>
+  <channel site="sky.com" site_id="4192" lang="en" xmltv_id="TelevisionX.uk@SD">UK| Television X</channel>
+  <channel site="sky.com" site_id="4195" lang="en" xmltv_id="AdultChannel.uk@SD">UK| Adult Channel</channel>
+  <channel site="sky.com" site_id="4197" lang="en" xmltv_id="BabesandBrazzers.uk@SD">UK| babes&amp;brazzers</channel>
+  <channel site="sky.com" site_id="4216" lang="en" xmltv_id="Pop.uk@Plus1">UK| POP+1</channel>
+  <channel site="sky.com" site_id="4265" lang="en" xmltv_id="ARYDigital.pk@UK">UK| ARY Digital</channel>
+  <channel site="sky.com" site_id="4266" lang="en" xmltv_id="GREATtv.uk@SD">UK| Great! TV</channel>
+  <channel site="sky.com" site_id="4330" lang="en" xmltv_id="SkyCrime.uk@Plus1">UK| Sky Crime+1</channel>
+  <channel site="sky.com" site_id="4334" lang="en" xmltv_id="SkyWitness.ie@SD">UK| Sky Witness</channel>
+  <channel site="sky.com" site_id="4340" lang="en" xmltv_id="NickJrToo.uk@SD">UK| Nick Jr. Too</channel>
+  <channel site="sky.com" site_id="4403" lang="en" xmltv_id="IslamTV.uk@SD">UK| Islam TV</channel>
+  <channel site="sky.com" site_id="4404" lang="en" xmltv_id="FaithWorldTV.uk@SD">UK| Faith World TV</channel>
+  <channel site="sky.com" site_id="4407" lang="en" xmltv_id="GeoNewsInternational.pk@SD">UK| GEO News</channel>
+  <channel site="sky.com" site_id="4408" lang="en" xmltv_id="TakbeerTV.uk@SD">UK| Takbeer TV</channel>
+  <channel site="sky.com" site_id="4420" lang="en" xmltv_id="Movies24.uk@SD">UK| Christmas24</channel>
+  <channel site="sky.com" site_id="4421" lang="en" xmltv_id="Movies24Plus.uk@SD">UK| Christmas24+</channel>
+  <channel site="sky.com" site_id="4460" lang="en" xmltv_id="MadaniChannelEnglish.pk@SD">UK| Madani Chnl</channel>
+  <channel site="sky.com" site_id="4461" lang="en" xmltv_id="IonTV.uk@SD">UK| iON TV</channel>
+  <channel site="sky.com" site_id="4502" lang="en" xmltv_id="HorrorXtra.uk@Plus1">UK| LEGEND XTRA+1</channel>
+  <channel site="sky.com" site_id="4505" lang="en" xmltv_id="ClublandTV.uk@SD">UK| Clubland TV</channel>
+  <channel site="sky.com" site_id="4540" lang="en" xmltv_id="NTVEurope.bd@SD">UK| NTV</channel>
+  <channel site="sky.com" site_id="4541" lang="en" xmltv_id="Now80s.uk@SD">UK| NOW 80s</channel>
+  <channel site="sky.com" site_id="4547" lang="en" xmltv_id="QuestRed.uk@Plus1">UK| Quest Red+1</channel>
+  <channel site="sky.com" site_id="4548" lang="en" xmltv_id="DMAX.uk@Ireland">UK| DMAX</channel>
+  <channel site="sky.com" site_id="4604" lang="en" xmltv_id="EuronewsEnglish.fr@SD">UK| Euronews</channel>
+  <channel site="sky.com" site_id="4610" lang="en" xmltv_id="Legend.uk@SD">UK| LEGEND</channel>
+  <channel site="sky.com" site_id="4645" lang="en" xmltv_id="SkyNewsArabia.ae@SD">UK| SkyNewsArabia</channel>
+  <channel site="sky.com" site_id="5032" lang="en" xmltv_id="TNTSports3.uk@SD">UK| TNT Sports 3</channel>
+  <channel site="sky.com" site_id="5040" lang="en" xmltv_id="AriseNews.uk@SD">UK| Arise News</channel>
+  <channel site="sky.com" site_id="5071" lang="en" xmltv_id="TRTWorld.tr@SD">UK| TRT World</channel>
+  <channel site="sky.com" site_id="5087" lang="en" xmltv_id="AkaalChannel.uk@SD">UK| Akaal Channel</channel>
+  <channel site="sky.com" site_id="5089" lang="en" xmltv_id="NickJr.uk@Plus1">UK| Nick Jr+1</channel>
+  <channel site="sky.com" site_id="5090" lang="en" xmltv_id="LondonLive.uk@SD">UK| London TV</channel>
+  <channel site="sky.com" site_id="5192" lang="en" xmltv_id="NickJrToo.ie@SD">UK| Nick Jr. Too</channel>
+  <channel site="sky.com" site_id="5205" lang="en" xmltv_id="HumEurope.pk@SD">UK| HUM EUROPE</channel>
+  <channel site="sky.com" site_id="5211" lang="en" xmltv_id="IslamChannelUrdu.uk@SD">UK| Islam Ch Urdu</channel>
+  <channel site="sky.com" site_id="5237" lang="en" xmltv_id="TRTWorld.tr@HD">UK| TRT World HD</channel>
+  <channel site="sky.com" site_id="5245" lang="en" xmltv_id="DiscoveryTurbo.uk@Plus1">UK| Disc.Turbo+1</channel>
+  <channel site="sky.com" site_id="5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">UK| TalkingPictures</channel>
+  <channel site="sky.com" site_id="5272" lang="en" xmltv_id="RacingTV.uk@HD">UK| Racing TV HD</channel>
+  <channel site="sky.com" site_id="5300" lang="en" xmltv_id="UtsavPlus.uk@HD">UK| Utsav Plus HD</channel>
+  <channel site="sky.com" site_id="5338" lang="en" xmltv_id="GREATtv.uk@Plus1">UK| Great! TV+1</channel>
+  <channel site="sky.com" site_id="5354" lang="en" xmltv_id="FaithUK.uk@SD">UK| Faith UK</channel>
+  <channel site="sky.com" site_id="5426" lang="en" xmltv_id="TVOne.uk@SD">UK| TV One</channel>
+  <channel site="sky.com" site_id="5431" lang="en" xmltv_id="SonyMax2.in@SD">UK| SONY MAX 2</channel>
+  <channel site="sky.com" site_id="5450" lang="en" xmltv_id="TLC.uk@SD">UK| TLC</channel>
+  <channel site="sky.com" site_id="5451" lang="en" xmltv_id="TLC.uk@Plus1">UK| TLC+1</channel>
+  <channel site="sky.com" site_id="5452" lang="en" xmltv_id="InvestigationDiscovery.uk@Plus1">UK| ID+1</channel>
+  <channel site="sky.com" site_id="5500" lang="en" xmltv_id="PBSAmerica.uk@SD">UK| PBS America</channel>
+  <channel site="sky.com" site_id="5520" lang="en" xmltv_id="Channels24.ng@SD">UK| Channels 24</channel>
+  <channel site="sky.com" site_id="5527" lang="en" xmltv_id="Nicktoons.ie@SD">UK| NickSpongeBob</channel>
+  <channel site="sky.com" site_id="5541" lang="en" xmltv_id="DaystarTV.us@SD">UK| DAYSTAR HD</channel>
+  <channel site="sky.com" site_id="5601" lang="en" xmltv_id="CartoonNetwork.uk@SD">UK| Cartoon Netwrk</channel>
+  <channel site="sky.com" site_id="5603" lang="en" xmltv_id="Boomerang.uk@Plus1">UK| Boomerang+1</channel>
+  <channel site="sky.com" site_id="5609" lang="en" xmltv_id="Boomerang.uk@SD">UK| Boomerang</channel>
+  <channel site="sky.com" site_id="5610" lang="en" xmltv_id="CartoonNetwork.uk@Plus1">UK| CN+1</channel>
+  <channel site="sky.com" site_id="5617" lang="en" xmltv_id="FoodNetwork.ie@SD">UK| Food Network</channel>
+  <channel site="sky.com" site_id="5701" lang="en" xmltv_id="S4C.uk@SD">UK| S4C</channel>
+  <channel site="sky.com" site_id="5703" lang="en" xmltv_id="B4UMovies.in@UK">UK| B4U Movies</channel>
+  <channel site="sky.com" site_id="5706" lang="en" xmltv_id="HighStreetTV2.uk@SD">UK| High Street TV 2</channel>
+  <channel site="sky.com" site_id="5708" lang="en" xmltv_id="B4UMusic.in@UK">UK| B4U Music</channel>
+  <channel site="sky.com" site_id="5715" lang="en" xmltv_id="PTCPunjabi.in@SD">UK| PTC PUNJABI</channel>
+  <channel site="sky.com" site_id="5880" lang="en" xmltv_id="W.ie@SD">UK| U&amp;W</channel>
+  <channel site="sky.com" site_id="5882" lang="en" xmltv_id="TVCNews.ng@SD">UK| TVC News</channel>
+  <channel site="sky.com" site_id="6145" lang="en" xmltv_id="ITV1.uk@LondonPlus1">UK| ITV1+1</channel>
+  <channel site="sky.com" site_id="6155" lang="en" xmltv_id="ITV1.uk@LondonPlus1">UK| ITV1+1</channel>
+  <channel site="sky.com" site_id="6210" lang="en" xmltv_id="STV.uk@SD">UK| STV</channel>
+  <channel site="sky.com" site_id="6241" lang="en" xmltv_id="ITV2.uk@Plus1">UK| ITV2+1</channel>
+  <channel site="sky.com" site_id="6261" lang="en" xmltv_id="ITV3.uk@Plus1">UK| ITV3+1</channel>
+  <channel site="sky.com" site_id="6274" lang="en" xmltv_id="ITV4.uk@Plus1">UK| ITV4+1</channel>
+  <channel site="sky.com" site_id="6355" lang="en" xmltv_id="ITV1.uk@LondonPlus1">UK| ITV1+1</channel>
+  <channel site="sky.com" site_id="6365" lang="en" xmltv_id="ITV1.uk@LondonPlus1">UK| ITV1+1</channel>
+  <channel site="sky.com" site_id="6371" lang="en" xmltv_id="STV.uk@SD">UK| STV</channel>
+  <channel site="sky.com" site_id="6501" lang="en" xmltv_id="ITV1.uk@WalesHD">UK| ITV1 Wales HD</channel>
+  <channel site="sky.com" site_id="6502" lang="en" xmltv_id="ITV1.uk@MeridianHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="6503" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="6504" lang="en" xmltv_id="ITV1.uk@LondonHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="6505" lang="en" xmltv_id="ITV1.uk@GranadaHD">UK| ITV1 HD</channel>
+  <channel site="sky.com" site_id="6510" lang="en" xmltv_id="UTV.uk@HD">UK| UTV HD</channel>
+  <channel site="sky.com" site_id="6513" lang="en" xmltv_id="UGold.uk@HD">UK| U&amp;Gold HD</channel>
+  <channel site="sky.com" site_id="6532" lang="en" xmltv_id="ITV2.uk@HD">UK| ITV2 HD</channel>
+  <channel site="sky.com" site_id="6533" lang="en" xmltv_id="ITV3.uk@HD">UK| ITV3 HD</channel>
+  <channel site="sky.com" site_id="6534" lang="en" xmltv_id="ITV4.uk@HD">UK| ITV4 HD</channel>
+  <channel site="sky.com" site_id="6753" lang="en" xmltv_id="ATNBanglaUK.uk@SD">UK| ATN</channel>
+  <channel site="sky.com" site_id="6754" lang="en" xmltv_id="IqraTV.uk@SD">UK| IQRA TV</channel>
+  <channel site="sky.com" site_id="6761" lang="en" xmltv_id="Quest.uk@SD">UK| QUEST</channel>
+  <channel site="sky.com" site_id="6765" lang="en" xmltv_id="AhlebaitTV.uk@SD">UK| Ahlebait TV</channel>
+  <channel site="sky.com" site_id="8040" lang="en" xmltv_id="">UK| My Sky</channel>
+  <channel site="sky.com" site_id="8266" lang="en" xmltv_id="">UK| My Account</channel>
+  <channel site="sky.com" site_id="8301" lang="en" xmltv_id="">UK| Program Your Remote</channel>
+  <channel site="sky.com" site_id="8331" lang="en" xmltv_id="">UK| Help and Support</channel>
+  <channel site="sky.com" site_id="8346" lang="en" xmltv_id="">UK| Reset your PIN</channel>
+  <channel site="sky.com" site_id="8459" lang="en" xmltv_id="">UK| Get Sky Products</channel>
 
 </channels>
