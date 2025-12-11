@@ -9,6 +9,26 @@
   <channel site="bein.com" site_id="sports#7" lang="en" xmltv_id="beINSports5.qa@MENA">AR| beIN Sports 5</channel>
   <channel site="bein.com" site_id="sports#8" lang="en" xmltv_id="beINSports6.qa@MENA">AR| beIN Sports 6</channel>
   <channel site="bein.com" site_id="sports#9" lang="en" xmltv_id="beINSports7.qa@MENA">AR| beIN Sports 7</channel>
+
+  <channel site="shahid.mbc.net" site_id="387238" lang="en" xmltv_id="MBC1.ae@SD">MBC1</channel>
+  <channel site="shahid.mbc.net" site_id="387251" lang="en" xmltv_id="MBCDrama.ae@SD">MBC Drama</channel>
+  <channel site="shahid.mbc.net" site_id="387286" lang="en" xmltv_id="Alarabiya.ae@SD">Al Arabiya</channel>
+  <channel site="shahid.mbc.net" site_id="387288" lang="en" xmltv_id="AlHadath.sa@SD">Al Hadath</channel>
+  <channel site="shahid.mbc.net" site_id="387290" lang="en" xmltv_id="MBCMasr.eg@SD">MBC Masr</channel>
+  <channel site="shahid.mbc.net" site_id="387293" lang="en" xmltv_id="MBCMasr2.eg@SD">MBC Masr2</channel>
+  <channel site="shahid.mbc.net" site_id="387294" lang="en" xmltv_id="MBCIraq.iq@SD">MBC Iraq</channel>
+  <channel site="shahid.mbc.net" site_id="387296" lang="en" xmltv_id="MBCPlusDrama.sa@SD">MBC Plus Drama</channel>
+  <channel site="shahid.mbc.net" site_id="387937" lang="en" xmltv_id="MBC5.ae@SD">MBC5</channel>
+  <channel site="shahid.mbc.net" site_id="400917" lang="en" xmltv_id="MBC2.ae@SD">MBC2</channel>
+  <channel site="shahid.mbc.net" site_id="400919" lang="en" xmltv_id="MBC4.ae@SD">MBC4</channel>
+  <channel site="shahid.mbc.net" site_id="400921" lang="en" xmltv_id="MBCAction.ae@SD">MBC Action</channel>
+  <channel site="shahid.mbc.net" site_id="400924" lang="en" xmltv_id="MBCMax.ae@SD">MBC MAX</channel>
+  <channel site="shahid.mbc.net" site_id="409385" lang="en" xmltv_id="MBC3.ae@SD">MBC3</channel>
+  <channel site="shahid.mbc.net" site_id="409387" lang="en" xmltv_id="MBCBollywood.ae@SD">MBC Bollywood</channel>
+  <channel site="shahid.mbc.net" site_id="409390" lang="en" xmltv_id="SpacetoonArabic.ae@SD">Spacetoon</channel>
+  <channel site="shahid.mbc.net" site_id="414449" lang="en" xmltv_id="Wanasah.ae@SD">Wanasah</channel>
+  <channel site="shahid.mbc.net" site_id="418308" lang="en" xmltv_id="MBCPersia.ae@SD">MBC Persia</channel>
+  <channel site="shahid.mbc.net" site_id="862837" lang="en" xmltv_id="AsharqNews.sa@SD">Asharq News</channel>
   
 
 </channels>
