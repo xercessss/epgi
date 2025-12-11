@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="bein.com" lang="en" xmltv_id="beINSeries1.qa" site_id="entertainment#8">8</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSeries2.qa" site_id="entertainment#9">9</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSports1.qa" site_id="sports#3">3</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSports2.qa" site_id="sports#4">4</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSports3.qa" site_id="sports#5">5</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSports4.qa" site_id="sports#6">6</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSports5.qa" site_id="sports#7">7</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSports6.qa" site_id="sports#8">8</channel>
-  <channel site="bein.com" lang="en" xmltv_id="beINSports7.qa" site_id="sports#9">9</channel>
+
+  <channel site="bein.com" lang="en" xmltv_id="AR| beIN Sports 1" site_id="sports#3">3</channel>
+  <channel site="bein.com" lang="en" xmltv_id="AR| beIN Sports 2" site_id="sports#4">4</channel>
+  <channel site="bein.com" lang="en" xmltv_id="AR| beIN Sports 3" site_id="sports#5">5</channel>
+  <channel site="bein.com" lang="en" xmltv_id="AR| beIN Sports 4" site_id="sports#6">6</channel>
+  <channel site="bein.com" lang="en" xmltv_id="AR| beIN Sports 5" site_id="sports#7">7</channel>
+  <channel site="bein.com" lang="en" xmltv_id="AR| beIN Sports 6" site_id="sports#8">8</channel>
+  <channel site="bein.com" lang="en" xmltv_id="AR| beIN Sports 7" site_id="sports#9">9</channel>
 
 </channels>
