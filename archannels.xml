@@ -40,32 +40,32 @@
   <channel site="beinsports.com" site_id="FD1DD7DD-1E7B-4AA2-8682-BFA17338E653" lang="en" xmltv_id="beINSports2.qa@MENA">AR| beIN SPORTS 2</channel>
   <channel site="beinsports.com" site_id="10A2A142-F98C-4706-9FD0-2D3C36045D63" lang="en" xmltv_id="beINSportsAFC.qa@SD">AR| beIN SPORTS AFC</channel>
   <channel site="beinsports.com" site_id="0CB3E227-4376-4545-AB64-D6C390F644D8" lang="en" xmltv_id="beINSportsAFC1.qa@SD">AR| beIN SPORTS 1 AFC</channel>
-  <channel site="bein.com" site_id="entertainment#1" lang="en" xmltv_id="beINMovies1Premiere.qa@SD">beIN Movies 1</channel>
-  <channel site="bein.com" site_id="entertainment#2" lang="en" xmltv_id="beINMovies2Action.qa@SD">beINMovies2</channel>
-  <channel site="bein.com" site_id="entertainment#3" lang="en" xmltv_id="beINMovies3Drama.qa@SD">beIN Movies 3</channel>
-  <channel site="bein.com" site_id="entertainment#4" lang="en" xmltv_id="beINMovies4Family.qa@SD">beIN Movies4</channel>
-  <channel site="bein.com" site_id="entertainment#5" lang="en" xmltv_id="FoxMoviesMiddleEast.us@SD">beIN Fox Movies</channel>
-  <channel site="bein.com" site_id="entertainment#6" lang="en" xmltv_id="FoxActionMoviesMENA.hk@SD">beIN Fox Action</channel>
-  <channel site="bein.com" site_id="entertainment#7" lang="en" xmltv_id="StarMoviesMiddleEast.ae@SD">beIN Star Movies</channel>
-  <channel site="bein.com" site_id="entertainment#8" lang="en" xmltv_id="beINSeries1.qa@SD">beIN Series 1</channel>
-  <channel site="bein.com" site_id="entertainment#9" lang="en" xmltv_id="beINSeries2.qa@SD">beIN Series 2</channel>
-  <channel site="bein.com" site_id="entertainment#10" lang="en" xmltv_id="beINDrama1.qa@SD">beIN Drama 1</channel>
-  <channel site="bein.com" site_id="entertainment#11" lang="en" xmltv_id="beINGourmet.qa@SD">beIN Gourmet</channel>
-  <channel site="bein.com" site_id="entertainment#12" lang="en" xmltv_id="TravelChannelEMEA.uk@SD">beIN Travel</channel>
-  <channel site="bein.com" site_id="entertainment#13" lang="en" xmltv_id="FoxArabia.ae@SD">beIN Fox</channel>
-  <channel site="bein.com" site_id="entertainment#14" lang="en" xmltv_id="FoodNetworkEMEA.us@SD">beIN Food Network</channel>
-  <channel site="bein.com" site_id="entertainment#15" lang="en" xmltv_id="HGTVArabia.us@SD">beIN HGTV</channel>
-  <channel site="bein.com" site_id="entertainment#16" lang="en" xmltv_id="StarWorldMiddleEast.ae@SD">beIN Star World</channel>
-  <channel site="bein.com" site_id="entertainment#17" lang="en" xmltv_id="Fatafeat.ae@SD">beIN Fatafeat</channel>
-  <channel site="bein.com" site_id="entertainment#18" lang="en" xmltv_id="FoxLifeMiddleEast.ae@SD">beIN FoxLife</channel>
-  <channel site="bein.com" site_id="entertainment#23" lang="en" xmltv_id="NationalGeographicMiddleEast.uk@SD">beIN National Geographic</channel>
-  <channel site="bein.com" site_id="entertainment#24" lang="en" xmltv_id="NationalGeographicWildMiddleEast.uk@SD">beIN National Geographic Wild</channel>
-  <channel site="bein.com" site_id="entertainment#25" lang="en" xmltv_id="BBCEarth.uk@MiddleEast">beIN BBC Earth</channel>
-  <channel site="bein.com" site_id="entertainment#26" lang="en" xmltv_id="CNNArabic.ae@SD">beIN CNN</channel>
-  <channel site="bein.com" site_id="entertainment#28" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us@SD">beIN Discovery Science</channel>
-  <channel site="bein.com" site_id="entertainment#30" lang="en" xmltv_id="JeemTV.qa@SD">beIN Jeem kids</channel>
-  <channel site="bein.com" site_id="entertainment#31" lang="en" xmltv_id="Baraem.qa@SD">beIN Baraem</channel>
-  <channel site="bein.com" site_id="entertainment#32" lang="en" xmltv_id="CartoonNetworkMENA.uk@SD">beIN Cartoon Network</channel>
+  <channel site="bein.com" site_id="entertainment#1" lang="en" xmltv_id="beINMovies1Premiere.qa@SD">AR| beIN Movies 1</channel>
+  <channel site="bein.com" site_id="entertainment#2" lang="en" xmltv_id="beINMovies2Action.qa@SD">AR| beINMovies2</channel>
+  <channel site="bein.com" site_id="entertainment#3" lang="en" xmltv_id="beINMovies3Drama.qa@SD">AR| beIN Movies 3</channel>
+  <channel site="bein.com" site_id="entertainment#4" lang="en" xmltv_id="beINMovies4Family.qa@SD">AR| beIN Movies4</channel>
+  <channel site="bein.com" site_id="entertainment#5" lang="en" xmltv_id="FoxMoviesMiddleEast.us@SD">AR| beIN Fox Movies</channel>
+  <channel site="bein.com" site_id="entertainment#6" lang="en" xmltv_id="FoxActionMoviesMENA.hk@SD">AR| beIN Fox Action</channel>
+  <channel site="bein.com" site_id="entertainment#7" lang="en" xmltv_id="StarMoviesMiddleEast.ae@SD">AR| beIN Star Movies</channel>
+  <channel site="bein.com" site_id="entertainment#8" lang="en" xmltv_id="beINSeries1.qa@SD">AR| beIN Series 1</channel>
+  <channel site="bein.com" site_id="entertainment#9" lang="en" xmltv_id="beINSeries2.qa@SD">AR| beIN Series 2</channel>
+  <channel site="bein.com" site_id="entertainment#10" lang="en" xmltv_id="beINDrama1.qa@SD">AR| beIN Drama 1</channel>
+  <channel site="bein.com" site_id="entertainment#11" lang="en" xmltv_id="beINGourmet.qa@SD">AR| beIN Gourmet</channel>
+  <channel site="bein.com" site_id="entertainment#12" lang="en" xmltv_id="TravelChannelEMEA.uk@SD">AR| beIN Travel</channel>
+  <channel site="bein.com" site_id="entertainment#13" lang="en" xmltv_id="FoxArabia.ae@SD">AR| beIN Fox</channel>
+  <channel site="bein.com" site_id="entertainment#14" lang="en" xmltv_id="FoodNetworkEMEA.us@SD">AR| beIN Food Network</channel>
+  <channel site="bein.com" site_id="entertainment#15" lang="en" xmltv_id="HGTVArabia.us@SD">AR| beIN HGTV</channel>
+  <channel site="bein.com" site_id="entertainment#16" lang="en" xmltv_id="StarWorldMiddleEast.ae@SD">AR| beIN Star World</channel>
+  <channel site="bein.com" site_id="entertainment#17" lang="en" xmltv_id="Fatafeat.ae@SD">AR| beIN Fatafeat</channel>
+  <channel site="bein.com" site_id="entertainment#18" lang="en" xmltv_id="FoxLifeMiddleEast.ae@SD">AR| beIN FoxLife</channel>
+  <channel site="bein.com" site_id="entertainment#23" lang="en" xmltv_id="NationalGeographicMiddleEast.uk@SD">AR| beIN National Geographic</channel>
+  <channel site="bein.com" site_id="entertainment#24" lang="en" xmltv_id="NationalGeographicWildMiddleEast.uk@SD">AR| beIN National Geographic Wild</channel>
+  <channel site="bein.com" site_id="entertainment#25" lang="en" xmltv_id="BBCEarth.uk@MiddleEast">AR| beIN BBC Earth</channel>
+  <channel site="bein.com" site_id="entertainment#26" lang="en" xmltv_id="CNNArabic.ae@SD">AR| beIN CNN</channel>
+  <channel site="bein.com" site_id="entertainment#28" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us@SD">AR| beIN Discovery Science</channel>
+  <channel site="bein.com" site_id="entertainment#30" lang="en" xmltv_id="JeemTV.qa@SD">AR| beIN Jeem kids</channel>
+  <channel site="bein.com" site_id="entertainment#31" lang="en" xmltv_id="Baraem.qa@SD">AR| beIN Baraem</channel>
+  <channel site="bein.com" site_id="entertainment#32" lang="en" xmltv_id="CartoonNetworkMENA.uk@SD">AR| beIN Cartoon Network</channel>
   <channel site="bein.com" site_id="sports#33" lang="en" xmltv_id="AlkassOne.qa@SD">AlkassOne</channel>
   <channel site="bein.com" site_id="sports#34" lang="en" xmltv_id="AlkassTwo.qa@SD">AlkassOne</channel>
 
