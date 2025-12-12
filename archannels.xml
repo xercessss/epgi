@@ -1,67 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
  <!-- BEIN -->
-  <channel site="beinsports.com" site_id="0CB3E227-4376-4545-AB64-D6C390F644D8" lang="en" xmltv_id="beINSportsAFC1.qa@SD">AR| beIN SPORTS 1 AFC</channel>
   <channel site="beinsports.com" site_id="0F8D20A4-D46C-4B18-9242-8E7B3E978FF8" lang="en" xmltv_id="beINSports8.qa@MENA">AR| beIN SPORTS 8</channel>
   <channel site="beinsports.com" site_id="2BF668DF-1B76-4199-88CE-8691FD86AD8C" lang="en" xmltv_id="">AR| beIN SPORTS 6 AFC</channel>
   <channel site="beinsports.com" site_id="2F518547-2269-4C07-93D5-2733397472BD" lang="en" xmltv_id="beINSportsNBA.qa@SD">AR| beIN SPORTS NBA</channel>
   <channel site="beinsports.com" site_id="2FB43094-3598-43C1-A3BA-44BFB40092E0" lang="en" xmltv_id="beINSportsMax1.qa@MENA">AR| beIN SPORTS MAX 1</channel>
   <channel site="beinsports.com" site_id="5B15611A-5F9D-4EF0-89A6-677C9CA2BD5D" lang="en" xmltv_id="beINSportsMax4.qa@MENA">AR| beIN SPORTS MAX 4</channel>
   <channel site="beinsports.com" site_id="5C08D9D3-C713-4F1F-947E-87C761428B9B" lang="en" xmltv_id="">AR| beIN SPORTS 9</channel>
-  <channel site="beinsports.com" site_id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 4</channel>
+  <channel site="beinsports.com" site_id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8" lang="en" xmltv_id="">AR| beIN SPORTS 4 XTRA</channel>
   <channel site="beinsports.com" site_id="7B558284-F996-4123-9584-1E5D01844270" lang="en" xmltv_id="beINSportsNews.qa@SD">AR| beIN SPORTS NEWS</channel>
   <channel site="beinsports.com" site_id="008F0EA9-FCD9-4E8C-849A-913979E7450A" lang="en" xmltv_id="beINSportsMax2.qa@MENA">AR| beIN SPORTS MAX 2</channel>
   <channel site="beinsports.com" site_id="8AEA2426-D451-4BA5-BF48-114A1F04B1A8" lang="en" xmltv_id="beINSports3.qa@MENA">AR| beIN SPORTS 3</channel>
-  <channel site="beinsports.com" site_id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839" lang="en" xmltv_id="">AR| beIN SPORTS EN 1</channel>
-  <channel site="beinsports.com" site_id="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 6</channel>
-  <channel site="beinsports.com" site_id="9B969275-E59C-4DD1-8FCA-8B01EAE04909" lang="en" xmltv_id="">AR| beIN SPORTS FR 2</channel>
-  <channel site="beinsports.com" site_id="10A2A142-F98C-4706-9FD0-2D3C36045D63" lang="en" xmltv_id="beINSportsAFC.qa@SD">AR| beIN SPORTS AFC</channel>
-  <channel site="beinsports.com" site_id="51D28C47-7B79-4007-81A3-BFDF9BC65A3B" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 5</channel>
+  <channel site="beinsports.com" site_id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839" lang="en" xmltv_id="">AR| beIN SPORTS 1 EN</channel>
+  <channel site="beinsports.com" site_id="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E" lang="en" xmltv_id="">AR| beIN SPORTS 6 XTRA</channel>
+  <channel site="beinsports.com" site_id="9B969275-E59C-4DD1-8FCA-8B01EAE04909" lang="en" xmltv_id="">AR| beIN SPORTS 2 FR</channel>
+  <channel site="beinsports.com" site_id="51D28C47-7B79-4007-81A3-BFDF9BC65A3B" lang="en" xmltv_id="">AR| beIN SPORTS 5 XTRA</channel>
   <channel site="beinsports.com" site_id="67DD49E9-E3A2-4B3A-94B8-88C620A4DFB1" lang="en" xmltv_id="beIN4K.qa@SD">AR| beIN 4K</channel>
   <channel site="beinsports.com" site_id="84F7E0C1-D47A-4444-BBA8-C50BB8D2C5A8" lang="en" xmltv_id="beINSports.qa@MENA">AR| beIN SPORTS</channel>
-  <channel site="beinsports.com" site_id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398" lang="en" xmltv_id="">AR| beIN SPORTS EN 2</channel>
-  <channel site="beinsports.com" site_id="1752F091-A114-4629-BED4-46E0BB488A24" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 7</channel>
+  <channel site="beinsports.com" site_id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398" lang="en" xmltv_id="">AR| beIN SPORTS 2 EN</channel>
+  <channel site="beinsports.com" site_id="1752F091-A114-4629-BED4-46E0BB488A24" lang="en" xmltv_id="">AR| beIN SPORTS 7 XTRA</channel>
   <channel site="beinsports.com" site_id="7783DC02-4527-4094-9EE3-CDA8E093E4EB" lang="en" xmltv_id="beINSportsMax3.qa@MENA">AR| beIN SPORTS MAX 3</channel>
   <channel site="beinsports.com" site_id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C" lang="en" xmltv_id="beINSports1.qa@MENA">AR| beIN SPORTS 1</channel>
   <channel site="beinsports.com" site_id="42680C3C-580F-43DA-BDD8-02651BD10F32" lang="en" xmltv_id="">AR| beIN SPORTS 4 AFC</channel>
-  <channel site="beinsports.com" site_id="522050CE-EBD3-43EA-B636-42B034FDC05C" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 9</channel>
-  <channel site="beinsports.com" site_id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC" lang="en" xmltv_id="">AR| beIN SPORTS FR 1</channel>
-  <channel site="beinsports.com" site_id="27E67022-B943-4913-9AF3-AFD3DAC9854B" lang="en" xmltv_id="beINSportsXtra2.qa@SD">AR| beIN SPORTS XTRA 2</channel>
+  <channel site="beinsports.com" site_id="522050CE-EBD3-43EA-B636-42B034FDC05C" lang="en" xmltv_id="">AR| beIN SPORTS 9 XTRA</channel>
+  <channel site="beinsports.com" site_id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC" lang="en" xmltv_id="">AR| beIN SPORTS 1 FR</channel>
+  <channel site="beinsports.com" site_id="27E67022-B943-4913-9AF3-AFD3DAC9854B" lang="en" xmltv_id="beINSportsXtra2.qa@SD">AR| beIN SPORTS 2 XTRA</channel>
   <channel site="beinsports.com" site_id="964E6246-CA95-410B-82C4-EA75DD979435" lang="en" xmltv_id="beINSports5.qa@MENA">AR| beIN SPORTS 5</channel>
   <channel site="beinsports.com" site_id="A2D36A21-00D5-4001-A443-81CF2C06553F" lang="en" xmltv_id="beINSportsAFC3.qa@SD">AR| beIN SPORTS 3 AFC</channel>
   <channel site="beinsports.com" site_id="A892063B-A5D9-4199-95AC-6A214515FA6B" lang="en" xmltv_id="beINSports7.qa@MENA">AR| beIN SPORTS 7</channel>
   <channel site="beinsports.com" site_id="B0DBD19A-9F44-4197-BD09-2B6A5F315F3B" lang="en" xmltv_id="">AR| beIN SPORTS 5 AFC</channel>
-  <channel site="beinsports.com" site_id="CD634732-20D1-4137-94E7-939DE93D056D" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 8</channel>
-  <channel site="beinsports.com" site_id="CDF1A4C8-26DD-4C33-A239-F729A3B09295" lang="en" xmltv_id="">AR| beIN SPORTS XTRA 3</channel>
+  <channel site="beinsports.com" site_id="CD634732-20D1-4137-94E7-939DE93D056D" lang="en" xmltv_id="">AR| beIN SPORTS 8 XTRA</channel>
+  <channel site="beinsports.com" site_id="CDF1A4C8-26DD-4C33-A239-F729A3B09295" lang="en" xmltv_id="">AR| beIN SPORTS 3 XTRA</channel>
   <channel site="beinsports.com" site_id="DB9361E8-B3EB-4D6F-9A82-75B5F09E2F92" lang="en" xmltv_id="beINSports4.qa@MENA">AR| beIN SPORTS 4</channel>
   <channel site="beinsports.com" site_id="DC04009D-7E18-4D1C-BA7F-7269B8F8D065" lang="en" xmltv_id="beINSportsMax6.qa@MENA">AR| beIN SPORTS MAX 6</channel>
-  <channel site="beinsports.com" site_id="E3B37FA0-E582-45B2-BB8E-516E1A714EF6" lang="en" xmltv_id="beINSportsXtra1.qa@SD">AR| beIN SPORTS XTRA 1</channel>
+  <channel site="beinsports.com" site_id="E3B37FA0-E582-45B2-BB8E-516E1A714EF6" lang="en" xmltv_id="beINSportsXtra1.qa@SD">AR| beIN SPORTS 1 XTRA</channel>
   <channel site="beinsports.com" site_id="E24D9C11-A8B4-4C7F-AD3E-B3364FB6D5A2" lang="en" xmltv_id="beINSports6.qa@MENA">AR| beIN SPORTS 6</channel>
   <channel site="beinsports.com" site_id="EEB3E4E8-0F9D-4735-943C-AEA3E39C87DE" lang="en" xmltv_id="beINSportsAFC2.qa@SD">AR| beIN SPORTS 2 AFC</channel>
   <channel site="beinsports.com" site_id="F7215920-CCF9-4DBB-8B9D-152E232FA549" lang="en" xmltv_id="beINSportsMax5.qa@MENA">AR| beIN SPORTS MAX 5</channel>
   <channel site="beinsports.com" site_id="FD1DD7DD-1E7B-4AA2-8682-BFA17338E653" lang="en" xmltv_id="beINSports2.qa@MENA">AR| beIN SPORTS 2</channel>
+  <channel site="beinsports.com" site_id="10A2A142-F98C-4706-9FD0-2D3C36045D63" lang="en" xmltv_id="beINSportsAFC.qa@SD">AR| beIN SPORTS AFC</channel>
+  <channel site="beinsports.com" site_id="0CB3E227-4376-4545-AB64-D6C390F644D8" lang="en" xmltv_id="beINSportsAFC1.qa@SD">AR| beIN SPORTS 1 AFC</channel>
+
 
   <!-- MBC -->
 
-  <channel site="shahid.mbc.net" site_id="387238" lang="en" xmltv_id="MBC1.ae@SD">MBC1</channel>
-  <channel site="shahid.mbc.net" site_id="387251" lang="en" xmltv_id="MBCDrama.ae@SD">MBC Drama</channel>
-  <channel site="shahid.mbc.net" site_id="387286" lang="en" xmltv_id="Alarabiya.ae@SD">Al Arabiya</channel>
-  <channel site="shahid.mbc.net" site_id="387288" lang="en" xmltv_id="AlHadath.sa@SD">Al Hadath</channel>
-  <channel site="shahid.mbc.net" site_id="387290" lang="en" xmltv_id="MBCMasr.eg@SD">MBC Masr</channel>
-  <channel site="shahid.mbc.net" site_id="387293" lang="en" xmltv_id="MBCMasr2.eg@SD">MBC Masr2</channel>
-  <channel site="shahid.mbc.net" site_id="387294" lang="en" xmltv_id="MBCIraq.iq@SD">MBC Iraq</channel>
-  <channel site="shahid.mbc.net" site_id="387296" lang="en" xmltv_id="MBCPlusDrama.sa@SD">MBC Plus Drama</channel>
-  <channel site="shahid.mbc.net" site_id="387937" lang="en" xmltv_id="MBC5.ae@SD">MBC5</channel>
-  <channel site="shahid.mbc.net" site_id="400917" lang="en" xmltv_id="MBC2.ae@SD">MBC2</channel>
-  <channel site="shahid.mbc.net" site_id="400919" lang="en" xmltv_id="MBC4.ae@SD">MBC4</channel>
-  <channel site="shahid.mbc.net" site_id="400921" lang="en" xmltv_id="MBCAction.ae@SD">MBC Action</channel>
-  <channel site="shahid.mbc.net" site_id="400924" lang="en" xmltv_id="MBCMax.ae@SD">MBC MAX</channel>
-  <channel site="shahid.mbc.net" site_id="409385" lang="en" xmltv_id="MBC3.ae@SD">MBC3</channel>
-  <channel site="shahid.mbc.net" site_id="409387" lang="en" xmltv_id="MBCBollywood.ae@SD">MBC Bollywood</channel>
-  <channel site="shahid.mbc.net" site_id="409390" lang="en" xmltv_id="SpacetoonArabic.ae@SD">Spacetoon</channel>
-  <channel site="shahid.mbc.net" site_id="414449" lang="en" xmltv_id="Wanasah.ae@SD">Wanasah</channel>
-  <channel site="shahid.mbc.net" site_id="418308" lang="en" xmltv_id="MBCPersia.ae@SD">MBC Persia</channel>
-  <channel site="shahid.mbc.net" site_id="862837" lang="en" xmltv_id="AsharqNews.sa@SD">Asharq News</channel>
+  <channel site="shahid.mbc.net" site_id="387238" lang="en" xmltv_id="MBC1.ae@SD">AR| MBC 1</channel>
+  <channel site="shahid.mbc.net" site_id="387251" lang="en" xmltv_id="MBCDrama.ae@SD">AR| MBC Drama</channel>
+  <channel site="shahid.mbc.net" site_id="387286" lang="en" xmltv_id="Alarabiya.ae@SD">AR| Al Arabiya</channel>
+  <channel site="shahid.mbc.net" site_id="387288" lang="en" xmltv_id="AlHadath.sa@SD">AR| Al Hadath</channel>
+  <channel site="shahid.mbc.net" site_id="387290" lang="en" xmltv_id="MBCMasr.eg@SD">AR| MBC Masr</channel>
+  <channel site="shahid.mbc.net" site_id="387293" lang="en" xmltv_id="MBCMasr2.eg@SD">AR| MBC Masr 2</channel>
+  <channel site="shahid.mbc.net" site_id="387294" lang="en" xmltv_id="MBCIraq.iq@SD">AR| MBC Iraq</channel>
+  <channel site="shahid.mbc.net" site_id="387296" lang="en" xmltv_id="MBCPlusDrama.sa@SD">AR| MBC Drama+</channel>
+  <channel site="shahid.mbc.net" site_id="387937" lang="en" xmltv_id="MBC5.ae@SD">AR| MBC 5</channel>
+  <channel site="shahid.mbc.net" site_id="400917" lang="en" xmltv_id="MBC2.ae@SD">AR| MBC 2</channel>
+  <channel site="shahid.mbc.net" site_id="400919" lang="en" xmltv_id="MBC4.ae@SD">AR| MBC 4</channel>
+  <channel site="shahid.mbc.net" site_id="400921" lang="en" xmltv_id="MBCAction.ae@SD">AR| MBC Action</channel>
+  <channel site="shahid.mbc.net" site_id="400924" lang="en" xmltv_id="MBCMax.ae@SD">AR| MBC MAX</channel>
+  <channel site="shahid.mbc.net" site_id="409385" lang="en" xmltv_id="MBC3.ae@SD">AR| MBC 3</channel>
+  <channel site="shahid.mbc.net" site_id="409387" lang="en" xmltv_id="MBCBollywood.ae@SD">AR| MBC Bollywood</channel>
+  <channel site="shahid.mbc.net" site_id="409390" lang="en" xmltv_id="SpacetoonArabic.ae@SD">AR| Spacetoon</channel>
+  <channel site="shahid.mbc.net" site_id="414449" lang="en" xmltv_id="Wanasah.ae@SD">AR| Wanasah</channel>
+  <channel site="shahid.mbc.net" site_id="418308" lang="en" xmltv_id="MBCPersia.ae@SD">AR| MBC Persia</channel>
+  <channel site="shahid.mbc.net" site_id="862837" lang="en" xmltv_id="AsharqNews.sa@SD">AR| Asharq News</channel>
 
   <!-- OSN -->
 
@@ -76,80 +77,76 @@
   <channel site="osn.com" lang="en" xmltv_id="CineMo.ph" site_id="CIN">OSN| Cine Mo</channel>
   <channel site="osn.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="CNB">OSN| CNBC</channel>
   <channel site="osn.com" lang="en" xmltv_id="CNNArabic.ae" site_id="CNN">OSN| CNN</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CrimePlusInvestigation.uk" site_id="CAI">OSN| Crime &amp; Investigation Network</channel>
-  <channel site="osn.com" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us" site_id="DSC">OSN| Discovery HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="DiscoveryScienceMiddleEast.uk" site_id="SCI">OSN| Discovery Science HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="DisneyChannelMENA.uk" site_id="DIS">OSN| Disney HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CrimePlusInvestigation.uk" site_id="CAI">OSN| Crime</channel>
+  <channel site="osn.com" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us" site_id="DSC">OSN| Discovery</channel>
+  <channel site="osn.com" lang="en" xmltv_id="DiscoveryScienceMiddleEast.uk" site_id="SCI">OSN| Discovery Science</channel>
+  <channel site="osn.com" lang="en" xmltv_id="DisneyChannelMENA.uk" site_id="DIS">OSN| Disney</channel>
   <channel site="osn.com" lang="en" xmltv_id="DisneyJuniorMENA.uk" site_id="DJR">OSN| Disney Junior</channel>
-  <channel site="osn.com" lang="en" xmltv_id="EMiddleEast.us" site_id="ETV">OSN| E! Entertainment</channel>
+  <channel site="osn.com" lang="en" xmltv_id="EMiddleEast.us" site_id="ETV">OSN| E!</channel>
   <channel site="osn.com" lang="en" xmltv_id="Fann.ae" site_id="FAN">OSN| Alfa Fann</channel>
-  <channel site="osn.com" lang="en" xmltv_id="History2MiddleEast.us" site_id="HI2">OSN| H2 HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="HistoryMiddleEast.us" site_id="HIS">OSN| History HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="History2MiddleEast.us" site_id="HI2">OSN| History 2</channel>
+  <channel site="osn.com" lang="en" xmltv_id="HistoryMiddleEast.us" site_id="HIS">OSN| History</channel>
   <channel site="osn.com" lang="en" xmltv_id="InvestigationDiscoveryEurope.us" site_id="DCX">OSN| Discovery ID</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MTV00s.uk" site_id="VH1">OSN| MTV 00s</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MTV00s.uk" site_id="VH1">OSN| MTV</channel>
   <channel site="osn.com" lang="en" xmltv_id="MTVLive.uk" site_id="MTL">OSN| MTV Live HD</channel>
   <channel site="osn.com" lang="en" xmltv_id="MusicNow.ae" site_id="NOW">OSN| Music Now</channel>
   <channel site="osn.com" lang="en" xmltv_id="MyxMiddleEast.ph" site_id="MYX">OSN| Myx</channel>
-  <channel site="osn.com" lang="en" xmltv_id="NationalGeographicMiddleEast.uk" site_id="NGO">OSN| Nat Geo HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="NationalGeographicWildMiddleEast.uk" site_id="NHD">OSN| Nat Geo Wild HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="NickelodeonArabia.ae" site_id="NIC">OSN| Nickelodeon HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="NationalGeographicMiddleEast.uk" site_id="NGO">OSN| Nat Geo</channel>
+  <channel site="osn.com" lang="en" xmltv_id="NationalGeographicWildMiddleEast.uk" site_id="NHD">OSN| Nat Geo Wild</channel>
+  <channel site="osn.com" lang="en" xmltv_id="NickelodeonArabia.ae" site_id="NIC">OSN| Nickelodeon</channel>
   <channel site="osn.com" lang="en" xmltv_id="NickJrArabia.ae" site_id="NJR">OSN| Nick Jr.</channel>
-  <channel site="osn.com" lang="en" xmltv_id="NicktoonsArabia.ae" site_id="NKT">OSN| NickToons HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNComedy.ae" site_id="OCO">OSN| OSN TV Comedy</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OBG">OSN| OSN TV Crime</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNKids.ae" site_id="OMK">OSN| OSN TV Kids</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNKidzone.ae" site_id="KDZ">OSN| OSN TV Kidzone</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMezze.ae" site_id="OMZ">OSN| OSN TV Mezze</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="AHD">OSN| OSN TV Movies Action</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OMC">OSN| OSN TV Movies Comedy</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OFM">OSN| OSN TV Movies Family</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesHollywood.ae" site_id="OPR">OSN| OSN TV Movies Hollywood</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="OM1">OSN| OSN TV Movies Premiere</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNNews.ae" site_id="ONS">OSN| OSN TV News</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OLH">OSN| OSN TV Now</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OTO">OSN| OSN TV One</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNShowcase.ae" site_id="OFH">OSN| OSN TV Showcase</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OST">OSN| OSN TV Showcase Classics</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNYahala.ae" site_id="OYH">OSN| OSN TV Yahala</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaAflam.ae" site_id="OYC">OSN| OSN TV Yahala Aflam</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaBilArabi.ae" site_id="OYA">OSN| OSN TV Yahala Bil Arabi</channel>
-  <channel site="osn.com" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="SKH">OSN| Sky News HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="StarMoviesMiddleEast.ae" site_id="STM">OSN| Star Movies HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="StarWorldMiddleEast.ae" site_id="STW">OSN| Star World HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="TLCArabia.us" site_id="TLC">OSN| TLC HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="NicktoonsArabia.ae" site_id="NKT">OSN| NickToons</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNComedy.ae" site_id="OCO">OSN| Comedy</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OBG">OSN| Crime</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNKids.ae" site_id="OMK">OSN| Kids</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNKidzone.ae" site_id="KDZ">OSN| Kidzone</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMezze.ae" site_id="OMZ">OSN| Mezze</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="AHD">OSN| Movies Action</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OMC">OSN| Movies Comedy</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OFM">OSN| Movies Family</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesHollywood.ae" site_id="OPR">OSN| Movies Hollywood</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="OM1">OSN| Movies Premiere</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNNews.ae" site_id="ONS">OSN| News</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OLH">OSN| Now</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OTO">OSN| One</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNShowcase.ae" site_id="OFH">OSN| Showcase</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OST">OSN| Showcase Classics</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNYahala.ae" site_id="OYH">OSN| Yahala Bil Arabi</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaAflam.ae" site_id="OYC">OSN| Yahala Aflam</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaBilArabi.ae" site_id="OYA">OSN| Yahala Bil Arabi</channel>
+  <channel site="osn.com" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="SKH">OSN| News</channel>
+  <channel site="osn.com" lang="en" xmltv_id="StarMoviesMiddleEast.ae" site_id="STM">OSN| Star Movies</channel>
+  <channel site="osn.com" lang="en" xmltv_id="StarWorldMiddleEast.ae" site_id="STW">OSN| Star World</channel>
+  <channel site="osn.com" lang="en" xmltv_id="TLCArabia.us" site_id="TLC">OSN| TLC</channel>
 
   <!-- FR-->
 
-  <channel site="canalplus.com" site_id="#19" lang="fr" xmltv_id="CanalPlusFoot.fr@SD">FR| CANAL+FOOT</channel>
+  <channel site="canalplus.com" site_id="#19" lang="fr" xmltv_id="CanalPlusFoot.fr@SD">FR| CANAL+ FOOT</channel>
   <channel site="canalplus.com" site_id="#26" lang="fr" xmltv_id="France2.fr@SD">FR| FRANCE 2</channel>
   <channel site="canalplus.com" site_id="#30" lang="fr" xmltv_id="">FR| CNN</channel>
   <channel site="canalplus.com" site_id="#47" lang="fr" xmltv_id="BloombergTV.us@Europe">FR| BLOOMBERG TV</channel>
   <channel site="canalplus.com" site_id="#64" lang="fr" xmltv_id="CNBCEurope.uk@SD">FR| CNBC</channel>
   <channel site="canalplus.com" site_id="#71" lang="fr" xmltv_id="">FR| TVE INTERNACIONAL</channel>
-  <channel site="canalplus.com" site_id="#83" lang="fr" xmltv_id="CanalPlusSport360.fr@SD">FR| CANAL+SPORT360</channel>
+  <channel site="canalplus.com" site_id="#83" lang="fr" xmltv_id="CanalPlusSport360.fr@SD">FR| CANAL+ SPORT 360</channel>
   <channel site="canalplus.com" site_id="#101" lang="fr" xmltv_id="Eurosport1.fr@France">FR| EUROSPORT 1</channel>
   <channel site="canalplus.com" site_id="#102" lang="fr" xmltv_id="">FR| KTO</channel>
   <channel site="canalplus.com" site_id="#123" lang="fr" xmltv_id="">FR| RTL</channel>
   <channel site="canalplus.com" site_id="#142" lang="fr" xmltv_id="UshuaiaTV.fr@SD">FR| USHUAIA TV</channel>
   <channel site="canalplus.com" site_id="#154" lang="fr" xmltv_id="arte.fr@SD">FR| ARTE</channel>
   <channel site="canalplus.com" site_id="#174" lang="fr" xmltv_id="">FR| DISCOVERY CHANNEL</channel>
-  <channel site="canalplus.com" site_id="#177" lang="fr" xmltv_id="CanalPlusSport.fr@SD">FR| CANAL+SPORT</channel>
-  <channel site="canalplus.com" site_id="#198" lang="fr" xmltv_id="">FR| CANAL+CINEMA.S</channel>
+  <channel site="canalplus.com" site_id="#177" lang="fr" xmltv_id="CanalPlusSport.fr@SD">FR| CANAL+ SPORT</channel>
+  <channel site="canalplus.com" site_id="#198" lang="fr" xmltv_id="">FR| CANAL+ CINEMA.S</channel>
   <channel site="canalplus.com" site_id="#228" lang="fr" xmltv_id="">FR| AL JAZEERA ARABIC</channel>
   <channel site="canalplus.com" site_id="#252" lang="fr" xmltv_id="ArirangWorld.kr@SD">FR| ARIRANG TV</channel>
-  <channel site="canalplus.com" site_id="#259" lang="fr" xmltv_id="CanalPlusKids.fr@SD">FR| CANAL+KIDS</channel>
+  <channel site="canalplus.com" site_id="#259" lang="fr" xmltv_id="CanalPlusKids.fr@SD">FR| CANAL+ KIDS</channel>
   <channel site="canalplus.com" site_id="#262" lang="fr" xmltv_id="">FR| 8 MONT-BLANC</channel>
   <channel site="canalplus.com" site_id="#268" lang="fr" xmltv_id="MezzoLive.fr@SD">FR| MEZZO LIVE</channel>
   <channel site="canalplus.com" site_id="#270" lang="fr" xmltv_id="PlanetePlus.fr@SD">FR| PLANETE+</channel>
-  <channel site="canalplus.com" site_id="#274" lang="fr" xmltv_id="DisneyJr.fr@SD">FR| CHAINE JEUNESSE 2</channel>
-  <channel site="canalplus.com" site_id="#282" lang="fr" xmltv_id="DisneyChannel.fr@SD">FR| CHAINE JEUNESSE 1</channel>
   <channel site="canalplus.com" site_id="#289" lang="fr" xmltv_id="">FR| CHAINE EVENEMENT</channel>
-  <channel site="canalplus.com" site_id="#290" lang="fr" xmltv_id="NationalGeographicWild.fr@SD">FR| CHAINE DECOUVERTE 2</channel>
   <channel site="canalplus.com" site_id="#292" lang="fr" xmltv_id="Teva.fr@SD">FR| TEVA</channel>
   <channel site="canalplus.com" site_id="#294" lang="fr" xmltv_id="ParisPremiere.fr@SD">FR| PARIS PREMIERE</channel>
   <channel site="canalplus.com" site_id="#296" lang="fr" xmltv_id="W9.fr@SD">FR| W9</channel>
   <channel site="canalplus.com" site_id="#301" lang="fr" xmltv_id="CanalPlus.fr@SD">FR| CANAL+</channel>
-  <channel site="canalplus.com" site_id="#302" lang="fr" xmltv_id="NationalGeographic.fr@SD">FR| CHAINE DECOUVERTE 1</channel>
   <channel site="canalplus.com" site_id="#310" lang="fr" xmltv_id="France24.fr@French">FR| FRANCE 24</channel>
   <channel site="canalplus.com" site_id="#311" lang="fr" xmltv_id="France24.fr@English">FR| FRANCE 24 ENG</channel>
   <channel site="canalplus.com" site_id="#312" lang="fr" xmltv_id="TF1.fr@SD">FR| TF1</channel>
@@ -172,10 +169,9 @@
   <channel site="canalplus.com" site_id="#451" lang="fr" xmltv_id="LEquipe.fr@SD">FR| L&apos;EQUIPE</channel>
   <channel site="canalplus.com" site_id="#470" lang="fr" xmltv_id="MTV.fr@SD">FR| MTV</channel>
   <channel site="canalplus.com" site_id="#480" lang="fr" xmltv_id="CNews.fr@SD">FR| CNEWS</channel>
-  <channel site="canalplus.com" site_id="#481" lang="fr" xmltv_id="CanalPlusSeries.fr@SD">FR| CANAL+SERIES</channel>
+  <channel site="canalplus.com" site_id="#481" lang="fr" xmltv_id="CanalPlusSeries.fr@SD">FR| CANAL+ SERIES</channel>
   <channel site="canalplus.com" site_id="#484" lang="fr" xmltv_id="JOne.fr@SD">FR| J-ONE</channel>
   <channel site="canalplus.com" site_id="#487" lang="fr" xmltv_id="ParamountChannel.fr@SD">FR| PARAMOUNT NETWORK</channel>
-  <channel site="canalplus.com" site_id="#496" lang="fr" xmltv_id="">FR| CANAL 24 HORAS</channel>
   <channel site="canalplus.com" site_id="#502" lang="fr" xmltv_id="">FR| CARTOON NETWORK</channel>
   <channel site="canalplus.com" site_id="#503" lang="fr" xmltv_id="Animaux.fr@SD">FR| ANIMAUX</channel>
   <channel site="canalplus.com" site_id="#504" lang="fr" xmltv_id="Action.fr@SD">FR| ACTION</channel>
@@ -192,7 +188,6 @@
   <channel site="canalplus.com" site_id="#532" lang="fr" xmltv_id="CinePlusClub.fr@SD">FR| CINE+ FESTIVAL</channel>
   <channel site="canalplus.com" site_id="#533" lang="fr" xmltv_id="">FR| CINE+ FAMILY</channel>
   <channel site="canalplus.com" site_id="#534" lang="fr" xmltv_id="ComediePlus.fr@SD">FR| COMEDIE+</channel>
-  <channel site="canalplus.com" site_id="#535" lang="fr" xmltv_id="DisneyChannel.fr@Plus1">FR| CHAINE JEUNESSE 3</channel>
   <channel site="canalplus.com" site_id="#536" lang="fr" xmltv_id="DorcelTV.nl@SD">FR| DORCEL TV</channel>
   <channel site="canalplus.com" site_id="#537" lang="fr" xmltv_id="DorcelXXX.nl@SD">FR| DORCEL XXX</channel>
   <channel site="canalplus.com" site_id="#540" lang="fr" xmltv_id="Equidia.fr@SD">FR| EQUIDIA</channel>
@@ -220,7 +215,7 @@
   <channel site="canalplus.com" site_id="#570" lang="fr" xmltv_id="TFX.fr@SD">FR| TFX</channel>
   <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr@SD">FR| RMC STORY</channel>
   <channel site="canalplus.com" site_id="#573" lang="fr" xmltv_id="">FR| CANAL+</channel>
-  <channel site="canalplus.com" site_id="#574" lang="fr" xmltv_id="">FR| CANAL+SPORT</channel>
+  <channel site="canalplus.com" site_id="#574" lang="fr" xmltv_id="">FR| CANAL+ SPORT</channel>
   <channel site="canalplus.com" site_id="#575" lang="fr" xmltv_id="PinkX.fr@SD">FR| PINK X</channel>
   <channel site="canalplus.com" site_id="#576" lang="fr" xmltv_id="PiwiPlus.fr@SD">FR| PIWI+</channel>
   <channel site="canalplus.com" site_id="#577" lang="fr" xmltv_id="Seasons.fr@SD">FR| SEASONS</channel>
@@ -231,8 +226,8 @@
   <channel site="canalplus.com" site_id="#584" lang="fr" xmltv_id="TMC.fr@SD">FR| TMC</channel>
   <channel site="canalplus.com" site_id="#585" lang="fr" xmltv_id="TraceUrban.fr@SD">FR| TRACE URBAN</channel>
   <channel site="canalplus.com" site_id="#586" lang="fr" xmltv_id="TVBreizh.fr@SD">FR| TV BREIZH</channel>
-  <channel site="canalplus.com" site_id="#587" lang="fr" xmltv_id="PlanetePlusCrime.fr@SD">FR| PLANETE+CRIME</channel>
-  <channel site="canalplus.com" site_id="#588" lang="fr" xmltv_id="PlanetePlusAventure.fr@SD">FR| PLANETE+AVENTURE</channel>
+  <channel site="canalplus.com" site_id="#587" lang="fr" xmltv_id="PlanetePlusCrime.fr@SD">FR| PLANETE+ CI</channel>
+  <channel site="canalplus.com" site_id="#588" lang="fr" xmltv_id="PlanetePlusAventure.fr@SD">FR| PLANETE+ A&E</channel>
   <channel site="canalplus.com" site_id="#589" lang="en" xmltv_id="BBCNews.uk@Europe">FR| BBC NEWS</channel>
   <channel site="canalplus.com" site_id="#591" lang="fr" xmltv_id="Nickelodeon.fr@SD">FR| NICKELODEON</channel>
   <channel site="canalplus.com" site_id="#592" lang="fr" xmltv_id="GameOne.fr@SD">FR| GAME ONE</channel>
@@ -258,13 +253,11 @@
   <channel site="canalplus.com" site_id="#636" lang="fr" xmltv_id="Eurosport360HD2.fr@SD">FR| EUROSPORT 360 2</channel>
   <channel site="canalplus.com" site_id="#637" lang="fr" xmltv_id="Eurosport360HD3.fr@SD">FR| EUROSPORT 360 3</channel>
   <channel site="canalplus.com" site_id="#638" lang="fr" xmltv_id="Eurosport360HD4.fr@SD">FR| EUROSPORT 360 4</channel>
-  <channel site="canalplus.com" site_id="#639" lang="fr" xmltv_id="">FR| LL EVENT UHD</channel>
   <channel site="canalplus.com" site_id="#645" lang="fr" xmltv_id="BFMBusiness.fr@SD">FR| BFM BUSINESS</channel>
   <channel site="canalplus.com" site_id="#650" lang="fr" xmltv_id="Eurosport360HD5.fr@SD">FR| EUROSPORT 360 5</channel>
   <channel site="canalplus.com" site_id="#651" lang="fr" xmltv_id="Eurosport360HD6.fr@SD">FR| EUROSPORT 360 6</channel>
   <channel site="canalplus.com" site_id="#652" lang="fr" xmltv_id="Eurosport360HD7.fr@SD">FR| EUROSPORT 360 7</channel>
   <channel site="canalplus.com" site_id="#653" lang="fr" xmltv_id="Eurosport360HD8.fr@SD">FR| EUROSPORT 360 8</channel>
-  <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp@SD">FR| NHK WORLD-JAPAN</channel>
   <channel site="canalplus.com" site_id="#670" lang="fr" xmltv_id="Franceinfo.fr@SD">FR| FRANCEINFO:</channel>
   <channel site="canalplus.com" site_id="#672" lang="fr" xmltv_id="ManX.be@SD">FR| MAN X</channel>
   <channel site="canalplus.com" site_id="#675" lang="en" xmltv_id="AlJazeera.qa@English">FR| AL JAZEERA ENG</channel>
@@ -275,100 +268,31 @@
   <channel site="canalplus.com" site_id="#693" lang="fr" xmltv_id="NovelasTV.fr@SD">FR| NOVELAS TV</channel>
   <channel site="canalplus.com" site_id="#694" lang="fr" xmltv_id="">FR| WARNER TV</channel>
   <channel site="canalplus.com" site_id="#696" lang="fr" xmltv_id="">FR| EURONEWS ALL</channel>
-  <channel site="canalplus.com" site_id="#702" lang="fr" xmltv_id="">FR| CANAL+ (CH)</channel>
   <channel site="canalplus.com" site_id="#723" lang="fr" xmltv_id="CStarHitsFrance.fr@SD">FR| CSTAR HITS FRANCE</channel>
   <channel site="canalplus.com" site_id="#726" lang="fr" xmltv_id="">FR| EVENEMENT SPORT 4K UHD</channel>
   <channel site="canalplus.com" site_id="#728" lang="fr" xmltv_id="">FR| CANAL+ UHD</channel>
   <channel site="canalplus.com" site_id="#732" lang="fr" xmltv_id="RMCSport1.fr@SD">FR| RMC SPORT 1</channel>
   <channel site="canalplus.com" site_id="#733" lang="fr" xmltv_id="RMCSport2.fr@SD">FR| RMC SPORT 2</channel>
   <channel site="canalplus.com" site_id="#737" lang="fr" xmltv_id="">FR| CL4</channel>
-  <channel site="canalplus.com" site_id="#739" lang="fr" xmltv_id="">FR| TEST14</channel>
-  <channel site="canalplus.com" site_id="#768" lang="fr" xmltv_id="">FR| CANAL 9</channel>
   <channel site="canalplus.com" site_id="#770" lang="fr" xmltv_id="">FR| RTS 1</channel>
   <channel site="canalplus.com" site_id="#771" lang="fr" xmltv_id="">FR| RTS 2</channel>
-  <channel site="canalplus.com" site_id="#772" lang="fr" xmltv_id="CanalAlphaNE.ch@SD">FR| CANAL ALPHA NE</channel>
-  <channel site="canalplus.com" site_id="#773" lang="fr" xmltv_id="LaTele.ch@SD">FR| LA TELE</channel>
-  <channel site="canalplus.com" site_id="#774" lang="fr" xmltv_id="LemanBleu.ch@SD">FR| LEMAN BLEU</channel>
-  <channel site="canalplus.com" site_id="#775" lang="fr" xmltv_id="TeleBielingue.ch@SD">FR| TELEBIELINGUE</channel>
-  <channel site="canalplus.com" site_id="#776" lang="fr" xmltv_id="">FR| RSI 1</channel>
-  <channel site="canalplus.com" site_id="#777" lang="fr" xmltv_id="">FR| RSI 2</channel>
-  <channel site="canalplus.com" site_id="#778" lang="fr" xmltv_id="SRF1.ch@SD">FR| SRF 1</channel>
-  <channel site="canalplus.com" site_id="#779" lang="fr" xmltv_id="">FR| SRF 2</channel>
-  <channel site="canalplus.com" site_id="#780" lang="fr" xmltv_id="">FR| 3 SAT</channel>
-  <channel site="canalplus.com" site_id="#781" lang="fr" xmltv_id="DasErste.de@SD">FR| ARD DAS ERSTE</channel>
-  <channel site="canalplus.com" site_id="#782" lang="fr" xmltv_id="Rai1.it@SD">FR| RAI UNO (CH)</channel>
-  <channel site="canalplus.com" site_id="#783" lang="fr" xmltv_id="ORF1.at@SD">FR| ORF 1</channel>
-  <channel site="canalplus.com" site_id="#784" lang="fr" xmltv_id="TraceLatina.fr@SD">FR| TRACE LATINA</channel>
+    <channel site="canalplus.com" site_id="#784" lang="fr" xmltv_id="TraceLatina.fr@SD">FR| TRACE LATINA</channel>
   <channel site="canalplus.com" site_id="#806" lang="fr" xmltv_id="ComedyCentral.fr@SD">FR| COMEDY CENTRAL</channel>
   <channel site="canalplus.com" site_id="#813" lang="fr" xmltv_id="OlympiaTV.fr@SD">FR| OLYMPIA TV</channel>
-  <channel site="canalplus.com" site_id="#815" lang="fr" xmltv_id="CanalPlusPremierLeague.fr@SD">FR| CANAL+PREMIER LEAGUE</channel>
-  <channel site="canalplus.com" site_id="#819" lang="fr" xmltv_id="MGGTV.fr@SD">FR| MGG TV</channel>
-  <channel site="canalplus.com" site_id="#825" lang="fr" xmltv_id="">FR| CANAL+ (CH)</channel>
-  <channel site="canalplus.com" site_id="#827" lang="fr" xmltv_id="">FR| CANAL+ CINEMA.S (CH)</channel>
-  <channel site="canalplus.com" site_id="#829" lang="fr" xmltv_id="">FR| OCS (CH)</channel>
-  <channel site="canalplus.com" site_id="#830" lang="fr" xmltv_id="">FR| CINE+ FRISSON (CH)</channel>
-  <channel site="canalplus.com" site_id="#831" lang="fr" xmltv_id="">FR| TPMP (CH)</channel>
-  <channel site="canalplus.com" site_id="#832" lang="fr" xmltv_id="">FR| CSTAR (CH)</channel>
-  <channel site="canalplus.com" site_id="#854" lang="fr" xmltv_id="">FR| EURONEWS ITALIE</channel>
-  <channel site="canalplus.com" site_id="#872" lang="fr" xmltv_id="">FR| EVENEMENT SPORT UHD HDR</channel>
-  <channel site="canalplus.com" site_id="#873" lang="fr" xmltv_id="">FR| CANAL+ SPORT (CH)</channel>
-  <channel site="canalplus.com" site_id="#874" lang="fr" xmltv_id="">FR| CANAL+ UHD (CH)</channel>
-  <channel site="canalplus.com" site_id="#876" lang="fr" xmltv_id="">FR| TEST01</channel>
-  <channel site="canalplus.com" site_id="#877" lang="fr" xmltv_id="">FR| TEST02</channel>
-  <channel site="canalplus.com" site_id="#878" lang="fr" xmltv_id="RougeTV.ch@SD">FR| CARAC1</channel>
-  <channel site="canalplus.com" site_id="#879" lang="fr" xmltv_id="LFMTV.ch@SD">FR| CARAC3</channel>
-  <channel site="canalplus.com" site_id="#880" lang="fr" xmltv_id="OneTV.ch@SD">FR| CARAC2</channel>
-  <channel site="canalplus.com" site_id="#893" lang="fr" xmltv_id="BlueZoomD.ch@SD">FR| BLUE ZOOM</channel>
-  <channel site="canalplus.com" site_id="#899" lang="fr" xmltv_id="CanalPlusDocs.fr@SD">FR| CANAL+DOCS</channel>
-  <channel site="canalplus.com" site_id="#900" lang="fr" xmltv_id="CanalPlusGrandEcran.fr@SD">FR| CANAL+GRAND ECRAN</channel>
+  <channel site="canalplus.com" site_id="#815" lang="fr" xmltv_id="CanalPlusPremierLeague.fr@SD">FR| CANAL+ PL</channel>
+  <channel site="canalplus.com" site_id="#899" lang="fr" xmltv_id="CanalPlusDocs.fr@SD">FR| CANAL+ DOCS</channel>
+  <channel site="canalplus.com" site_id="#900" lang="fr" xmltv_id="CanalPlusGrandEcran.fr@SD">FR| CANAL+ GRAND ECRAN</channel>
   <channel site="canalplus.com" site_id="#998" lang="fr" xmltv_id="France3.fr@NouvelleAquitaine">FR| NOA</channel>
-  <channel site="canalplus.com" site_id="#1045" lang="fr" xmltv_id="">FR| CANAL+FOOT</channel>
-  <channel site="canalplus.com" site_id="#1048" lang="fr" xmltv_id="">FR| CANAL+SPORT360</channel>
-  <channel site="canalplus.com" site_id="#1049" lang="fr" xmltv_id="">FR| CANAL+SPORT 360 (CH)</channel>
+  <channel site="canalplus.com" site_id="#1045" lang="fr" xmltv_id="">FR| CANAL+ FOOT</channel>
+  <channel site="canalplus.com" site_id="#1048" lang="fr" xmltv_id="">FR| CANAL+ SPORT 360</channel>
   <channel site="canalplus.com" site_id="#1051" lang="fr" xmltv_id="">FR| MULTISPORTS 7</channel>
-  <channel site="canalplus.com" site_id="#1053" lang="fr" xmltv_id="">FR| CANAL+GRAND ECRAN (CH)</channel>
   <channel site="canalplus.com" site_id="#1074" lang="fr" xmltv_id="">FR| CANAL+BOX OFFICE</channel>
-  <channel site="canalplus.com" site_id="#1075" lang="fr" xmltv_id="">FR| CANAL+BOX OFFICE (CH)</channel>
   <channel site="canalplus.com" site_id="#1076" lang="fr" xmltv_id="">FR| TV MONACO</channel>
   <channel site="canalplus.com" site_id="#1077" lang="fr" xmltv_id="">FR| DAZN 1</channel>
-  <channel site="canalplus.com" site_id="#1079" lang="fr" xmltv_id="">FR| CANAL+BOX OFFICE UHD</channel>
+  <channel site="canalplus.com" site_id="#1079" lang="fr" xmltv_id="">FR| CANAL+ BOX OFFICE</channel>
   <channel site="canalplus.com" site_id="#1080" lang="fr" xmltv_id="">FR| SPORT EN FRANCE</channel>
-  <channel site="canalplus.com" site_id="#1082" lang="fr" xmltv_id="">FR| UNIONTV</channel>
-  <channel site="canalplus.com" site_id="#1083" lang="fr" xmltv_id="">FR| RAI 1</channel>
-  <channel site="canalplus.com" site_id="#1092" lang="fr" xmltv_id="">FR| FRANCE TV SERIES</channel>
-  <channel site="canalplus.com" site_id="#1094" lang="fr" xmltv_id="">FR| FRANCE 2 UHD HDR</channel>
-  <channel site="canalplus.com" site_id="#1095" lang="fr" xmltv_id="">FR| WARNER TV NEXT</channel>
-  <channel site="canalplus.com" site_id="#1096" lang="fr" xmltv_id="">FR| CARTOONITO</channel>
   <channel site="canalplus.com" site_id="#1097" lang="fr" xmltv_id="">FR| TLC</channel>
   <channel site="canalplus.com" site_id="#1098" lang="fr" xmltv_id="">FR| DISCOVERY INVESTIGATION</channel>
-  <channel site="canalplus.com" site_id="#1100" lang="fr" xmltv_id="">FR| CANAL+FOOT (CH)</channel>
-  <channel site="canalplus.com" site_id="#1102" lang="fr" xmltv_id="">FR| LE FIGARO TV</channel>
-  <channel site="canalplus.com" site_id="#1103" lang="fr" xmltv_id="">FR| CINE+ EMOTION (CH)</channel>
-  <channel site="canalplus.com" site_id="#1104" lang="fr" xmltv_id="">FR| CINE+ FAMILY (CH)</channel>
-  <channel site="canalplus.com" site_id="#1105" lang="fr" xmltv_id="">FR| EUROSPORT 360 9</channel>
-  <channel site="canalplus.com" site_id="#1106" lang="fr" xmltv_id="">FR| EUROSPORT 360 10</channel>
-  <channel site="canalplus.com" site_id="#1107" lang="fr" xmltv_id="">FR| EUROSPORT 360 11</channel>
-  <channel site="canalplus.com" site_id="#1108" lang="fr" xmltv_id="">FR| EUROSPORT 360 12</channel>
-  <channel site="canalplus.com" site_id="#1109" lang="fr" xmltv_id="">FR| EUROSPORT 360 13</channel>
-  <channel site="canalplus.com" site_id="#1110" lang="fr" xmltv_id="">FR| EUROSPORT 360 14</channel>
-  <channel site="canalplus.com" site_id="#1111" lang="fr" xmltv_id="">FR| EUROSPORT 360 15</channel>
-  <channel site="canalplus.com" site_id="#1112" lang="fr" xmltv_id="">FR| EUROSPORT 360 16</channel>
-  <channel site="canalplus.com" site_id="#1113" lang="fr" xmltv_id="">FR| EUROSPORT 360 17</channel>
-  <channel site="canalplus.com" site_id="#1114" lang="fr" xmltv_id="">FR| EUROSPORT 360 18</channel>
-  <channel site="canalplus.com" site_id="#1115" lang="fr" xmltv_id="">FR| EUROSPORT 360 19</channel>
-  <channel site="canalplus.com" site_id="#1116" lang="fr" xmltv_id="">FR| EUROSPORT 360 20</channel>
-  <channel site="canalplus.com" site_id="#1117" lang="fr" xmltv_id="">FR| EUROSPORT 360 21</channel>
-  <channel site="canalplus.com" site_id="#1118" lang="fr" xmltv_id="">FR| EUROSPORT 360 22</channel>
-  <channel site="canalplus.com" site_id="#1119" lang="fr" xmltv_id="">FR| EUROSPORT 360 23</channel>
-  <channel site="canalplus.com" site_id="#1120" lang="fr" xmltv_id="">FR| EUROSPORT 360 24</channel>
-  <channel site="canalplus.com" site_id="#1121" lang="fr" xmltv_id="">FR| EUROSPORT 360 25</channel>
-  <channel site="canalplus.com" site_id="#1122" lang="fr" xmltv_id="">FR| EUROSPORT 360 26</channel>
-  <channel site="canalplus.com" site_id="#1123" lang="fr" xmltv_id="">FR| EUROSPORT 360 27</channel>
-  <channel site="canalplus.com" site_id="#1124" lang="fr" xmltv_id="">FR| EUROSPORT 360 28</channel>
-  <channel site="canalplus.com" site_id="#1125" lang="fr" xmltv_id="">FR| EUROSPORT 360 29</channel>
-  <channel site="canalplus.com" site_id="#1126" lang="fr" xmltv_id="">FR| EUROSPORT 360 30</channel>
-  <channel site="canalplus.com" site_id="#1127" lang="fr" xmltv_id="">FR| EUROSPORT 360 31</channel>
-  <channel site="canalplus.com" site_id="#1128" lang="fr" xmltv_id="">FR| EUROSPORT 360 32</channel>
   <channel site="canalplus.com" site_id="#1135" lang="fr" xmltv_id="">FR| CANAL+LIVE 1</channel>
   <channel site="canalplus.com" site_id="#1136" lang="fr" xmltv_id="">FR| CANAL+LIVE 2</channel>
   <channel site="canalplus.com" site_id="#1137" lang="fr" xmltv_id="">FR| CANAL+LIVE 3</channel>
@@ -379,15 +303,6 @@
   <channel site="canalplus.com" site_id="#1142" lang="fr" xmltv_id="">FR| CANAL+LIVE 8</channel>
   <channel site="canalplus.com" site_id="#1143" lang="fr" xmltv_id="">FR| CANAL+LIVE 9</channel>
   <channel site="canalplus.com" site_id="#1144" lang="fr" xmltv_id="">FR| CANAL+LIVE 10</channel>
-  <channel site="canalplus.com" site_id="#1145" lang="fr" xmltv_id="">FR| CANAL+LIVE 11</channel>
-  <channel site="canalplus.com" site_id="#1146" lang="fr" xmltv_id="">FR| CANAL+LIVE 12</channel>
-  <channel site="canalplus.com" site_id="#1147" lang="fr" xmltv_id="">FR| CANAL+LIVE 13</channel>
-  <channel site="canalplus.com" site_id="#1148" lang="fr" xmltv_id="">FR| CANAL+LIVE 14</channel>
-  <channel site="canalplus.com" site_id="#1149" lang="fr" xmltv_id="">FR| CANAL+LIVE 15</channel>
-  <channel site="canalplus.com" site_id="#1150" lang="fr" xmltv_id="">FR| CANAL+LIVE 16</channel>
-  <channel site="canalplus.com" site_id="#1151" lang="fr" xmltv_id="">FR| CANAL+LIVE 17</channel>
-  <channel site="canalplus.com" site_id="#1152" lang="fr" xmltv_id="">FR| CANAL+LIVE 18</channel>
-  <channel site="canalplus.com" site_id="#1153" lang="fr" xmltv_id="">FR| CANAL+LIVE 19</channel>
   <channel site="canalplus.com" site_id="#1154" lang="fr" xmltv_id="">FR| CANAL+ UHD HDR</channel>
   <channel site="canalplus.com" site_id="#1155" lang="fr" xmltv_id="">FR| DAZN 2</channel>
   <channel site="canalplus.com" site_id="#1156" lang="fr" xmltv_id="">FR| DAZN 3</channel>
@@ -395,8 +310,7 @@
   <channel site="canalplus.com" site_id="#1158" lang="fr" xmltv_id="">FR| DAZN 5</channel>
   <channel site="canalplus.com" site_id="#1159" lang="fr" xmltv_id="">FR| FRANCE TV DOCS</channel>
   <channel site="canalplus.com" site_id="#1162" lang="fr" xmltv_id="">FR| CANAL+</channel>
-  <channel site="canalplus.com" site_id="#1170" lang="fr" xmltv_id="">FR| CINE+ FESTIVAL (CH)</channel>
-  <channel site="canalplus.com" site_id="#21120" lang="fr" xmltv_id="">FR| ARTE ALLEMAND</channel>
+  <channel site="canalplus.com" site_id="#21120" lang="fr" xmltv_id="">FR| ARTE</channel>
 
   <!-- SNRT -->
   <channel site="snrt.ma" site_id="1208" lang="ar" xmltv_id="AlAoula.ma@SD">AR| Al Aoula</channel>
