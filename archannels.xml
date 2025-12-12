@@ -227,7 +227,7 @@
   <channel site="canalplus.com" site_id="#585" lang="fr" xmltv_id="TraceUrban.fr@SD">FR| TRACE URBAN</channel>
   <channel site="canalplus.com" site_id="#586" lang="fr" xmltv_id="TVBreizh.fr@SD">FR| TV BREIZH</channel>
   <channel site="canalplus.com" site_id="#587" lang="fr" xmltv_id="PlanetePlusCrime.fr@SD">FR| PLANETE+ CI</channel>
-  <channel site="canalplus.com" site_id="#588" lang="fr" xmltv_id="PlanetePlusAventure.fr@SD">FR| PLANETE+ A&E</channel>
+  <channel site="canalplus.com" site_id="#588" lang="fr" xmltv_id="PlanetePlusAventure.fr@SD">FR| PLANETE+ A&amp;E</channel>
   <channel site="canalplus.com" site_id="#589" lang="en" xmltv_id="BBCNews.uk@Europe">FR| BBC NEWS</channel>
   <channel site="canalplus.com" site_id="#591" lang="fr" xmltv_id="Nickelodeon.fr@SD">FR| NICKELODEON</channel>
   <channel site="canalplus.com" site_id="#592" lang="fr" xmltv_id="GameOne.fr@SD">FR| GAME ONE</channel>
