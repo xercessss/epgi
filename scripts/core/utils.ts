@@ -80,13 +80,15 @@ export async function loadJs(filepath: string) {
 
 export async function loadIssues(props?: { labels: string[] | string }) {
   const CustomOctokit = Octokit.plugin(paginateRest, restEndpointMethods)
-  const octokit = new CustomOctokit()
+  const octokit = new CustomOctokit({
+    auth: process.env.GH_TOKEN
+  })
 
   let labels = ''
   if (props && props.labels) {
     labels = Array.isArray(props.labels) ? props.labels.join(',') : props.labels
   }
-  let issues: object[] = []
+  let issues: object[]
   if (TESTING) {
     issues = (await import('../../tests/__data__/input/sites_update/issues.mjs')).default
   } else {
@@ -107,4 +109,8 @@ export async function loadIssues(props?: { labels: string[] | string }) {
 
 export function parseNumber(value: string): number {
   return parseInt(value)
+}
+
+export function parseList(value: string): string[] {
+  return value.split(',')
 }
