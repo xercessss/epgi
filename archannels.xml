@@ -3,7 +3,7 @@
 
  <!-- BEIN -->
 
-  <channel site="bein.com" site_id="sports#40" lang="en" xmltv_id="AlkassEight.qa@SD">40</channel>
+   <channel site="bein.com" site_id="sports#40" lang="en" xmltv_id="AlkassEight.qa@SD">40</channel>
   <channel site="bein.com" site_id="sports#37" lang="en" xmltv_id="AlkassFive.qa@SD">37</channel>
   <channel site="bein.com" site_id="sports#36" lang="en" xmltv_id="AlkassFour.qa@SD">36</channel>
   <channel site="bein.com" site_id="sports#33" lang="en" xmltv_id="AlkassOne.qa@SD">33</channel>
@@ -11,52 +11,34 @@
   <channel site="bein.com" site_id="sports#38" lang="en" xmltv_id="AlkassSix.qa@SD">38</channel>
   <channel site="bein.com" site_id="sports#35" lang="en" xmltv_id="AlkassThree.qa@SD">35</channel>
   <channel site="bein.com" site_id="sports#34" lang="en" xmltv_id="AlkassTwo.qa@SD">34</channel>
-  <channel site="bein.com" site_id="entertainment#31" lang="en" xmltv_id="Baraem.qa@SD">31</channel>
-  <channel site="bein.com" site_id="entertainment#25" lang="en" xmltv_id="BBCEarth.uk@MiddleEast">25</channel>
-  <channel site="bein.com" site_id="sports#15" lang="en" xmltv_id="beIN4K.qa@SD">15</channel>
-  <channel site="bein.com" site_id="entertainment#10" lang="en" xmltv_id="beINDrama1.qa@SD">10</channel>
-  <channel site="bein.com" site_id="entertainment#11" lang="en" xmltv_id="beINGourmet.qa@SD">11</channel>
-  <channel site="bein.com" site_id="entertainment#1" lang="en" xmltv_id="beINMovies1Premiere.qa@SD">1</channel>
-  <channel site="bein.com" site_id="entertainment#2" lang="en" xmltv_id="beINMovies2Action.qa@SD">2</channel>
-  <channel site="bein.com" site_id="entertainment#3" lang="en" xmltv_id="beINMovies3Drama.qa@SD">3</channel>
-  <channel site="bein.com" site_id="entertainment#4" lang="en" xmltv_id="beINMovies4Family.qa@SD">4</channel>
-  <channel site="bein.com" site_id="entertainment#8" lang="en" xmltv_id="beINSeries1.qa@SD">8</channel>
-  <channel site="bein.com" site_id="entertainment#9" lang="en" xmltv_id="beINSeries2.qa@SD">9</channel>
-  <channel site="bein.com" site_id="sports#3" lang="en" xmltv_id="beINSports1.qa@MENA">3</channel>
-  <channel site="bein.com" site_id="sports#4" lang="en" xmltv_id="beINSports2.qa@MENA">4</channel>
-  <channel site="bein.com" site_id="sports#5" lang="en" xmltv_id="beINSports3.qa@MENA">5</channel>
-  <channel site="bein.com" site_id="sports#6" lang="en" xmltv_id="beINSports4.qa@MENA">6</channel>
-  <channel site="bein.com" site_id="sports#7" lang="en" xmltv_id="beINSports5.qa@MENA">7</channel>
-  <channel site="bein.com" site_id="sports#8" lang="en" xmltv_id="beINSports6.qa@MENA">8</channel>
-  <channel site="bein.com" site_id="sports#9" lang="en" xmltv_id="beINSports7.qa@MENA">9</channel>
-  <channel site="bein.com" site_id="sports#2" lang="en" xmltv_id="beINSports.qa@MENA">2</channel>
-  <channel site="bein.com" site_id="sports#17" lang="en" xmltv_id="beINSportsAFC1.qa@SD">17</channel>
-  <channel site="bein.com" site_id="sports#18" lang="en" xmltv_id="beINSportsAFC2.qa@SD">18</channel>
-  <channel site="bein.com" site_id="sports#19" lang="en" xmltv_id="beINSportsAFC3.qa@SD">19</channel>
-  <channel site="bein.com" site_id="sports#16" lang="en" xmltv_id="beINSportsAFC.qa@SD">16</channel>
-  <channel site="bein.com" site_id="sports#20" lang="en" xmltv_id="beINSportsEnglish1.qa@SD">20</channel>
-  <channel site="bein.com" site_id="sports#21" lang="en" xmltv_id="beINSportsEnglish2.qa@SD">21</channel>
-  <channel site="bein.com" site_id="sports#22" lang="en" xmltv_id="beINSportsEnglish3.qa@SD">22</channel>
-  <channel site="bein.com" site_id="sports#24" lang="en" xmltv_id="beINSportsFrench1.qa@SD">24</channel>
-  <channel site="bein.com" site_id="sports#25" lang="en" xmltv_id="beINSportsFrench2.qa@SD">25</channel>
-  <channel site="bein.com" site_id="sports#26" lang="en" xmltv_id="beINSportsFrench3.qa@SD">26</channel>
-  <channel site="bein.com" site_id="sports#27" lang="en" xmltv_id="beINSportsMax1.qa@MENA">27</channel>
-  <channel site="bein.com" site_id="sports#28" lang="en" xmltv_id="beINSportsMax2.qa@MENA">28</channel>
-  <channel site="bein.com" site_id="sports#29" lang="en" xmltv_id="beINSportsMax3.qa@MENA">29</channel>
-  <channel site="bein.com" site_id="sports#30" lang="en" xmltv_id="beINSportsMax4.qa@MENA">30</channel>
-  <channel site="bein.com" site_id="sports#31" lang="en" xmltv_id="beINSportsMax5.qa@MENA">31</channel>
-  <channel site="bein.com" site_id="sports#32" lang="en" xmltv_id="beINSportsMax6.qa@MENA">32</channel>
-  <channel site="bein.com" site_id="sports#23" lang="en" xmltv_id="beINSportsNBA.qa@SD">23</channel>
-  <channel site="bein.com" site_id="sports#1" lang="en" xmltv_id="beINSportsNews.qa@SD">1</channel>
-  <channel site="bein.com" site_id="sports#10" lang="en" xmltv_id="beINSportsPremium1.qa@SD">10</channel>
-  <channel site="bein.com" site_id="sports#11" lang="en" xmltv_id="beINSportsPremium2.qa@SD">11</channel>
-  <channel site="bein.com" site_id="sports#12" lang="en" xmltv_id="beINSportsPremium3.qa@SD">12</channel>
-  <channel site="bein.com" site_id="sports#13" lang="en" xmltv_id="beINSportsXtra1.qa@SD">13</channel>
-  <channel site="bein.com" site_id="sports#14" lang="en" xmltv_id="beINSportsXtra2.qa@SD">14</channel>
+  <channel site="bein.com" site_id="entertainment#31" lang="en" xmltv_id="">31</channel>
+  <channel site="bein.com" site_id="entertainment#25" lang="en" xmltv_id="Baraem.qa@SD">BaraemTV</channel>
+  <channel site="bein.com" site_id="sports#15" lang="en" xmltv_id="">beINSPORTS2FR</channel>
+  <channel site="bein.com" site_id="entertainment#10" lang="en" xmltv_id="">beINSERIES2</channel>
+  <channel site="bein.com" site_id="entertainment#11" lang="en" xmltv_id="">beINDRAMA</channel>
+  <channel site="bein.com" site_id="entertainment#1" lang="en" xmltv_id="beINMovies1Premiere.qa@SD">beINMOVIES1</channel>
+  <channel site="bein.com" site_id="entertainment#2" lang="en" xmltv_id="beINMovies2Action.qa@SD">beINMOVIES2</channel>
+  <channel site="bein.com" site_id="entertainment#3" lang="en" xmltv_id="beINMovies3Drama.qa@SD">beINMOVIES3</channel>
+  <channel site="bein.com" site_id="entertainment#4" lang="en" xmltv_id="beINMovies4Family.qa@SD">beINMOVIES4</channel>
+  <channel site="bein.com" site_id="entertainment#8" lang="en" xmltv_id="">8</channel>
+  <channel site="bein.com" site_id="entertainment#9" lang="en" xmltv_id="">beINSERIES1</channel>
+  <channel site="bein.com" site_id="sports#3" lang="en" xmltv_id="beINSports3.qa@MENA">beINSPORTS3</channel>
+  <channel site="bein.com" site_id="sports#4" lang="en" xmltv_id="beINSports4.qa@MENA">beINSPORT4</channel>
+  <channel site="bein.com" site_id="sports#5" lang="en" xmltv_id="beINSports5.qa@MENA">beINSPORTS5</channel>
+  <channel site="bein.com" site_id="sports#6" lang="en" xmltv_id="beINSports6.qa@MENA">beINSPORTS6</channel>
+  <channel site="bein.com" site_id="sports#7" lang="en" xmltv_id="beINSports7.qa@MENA">beINSPORTS7</channel>
+  <channel site="bein.com" site_id="sports#8" lang="en" xmltv_id="beINSports8.qa@MENA">beINSPORTS8</channel>
+  <channel site="bein.com" site_id="sports#9" lang="en" xmltv_id="beINSports9.qa@MENA">beINSPORTS9</channel>
+  <channel site="bein.com" site_id="sports#2" lang="en" xmltv_id="beINSports2.qa@MENA">beINSPORTS2</channel>
+  <channel site="bein.com" site_id="sports#23" lang="en" xmltv_id="">beINSPORTSXTRA7</channel>
+  <channel site="bein.com" site_id="sports#1" lang="en" xmltv_id="">beINSPORTS1</channel>
+  <channel site="bein.com" site_id="sports#10" lang="en" xmltv_id="">beINSPORTSNews</channel>
+  <channel site="bein.com" site_id="sports#11" lang="en" xmltv_id="">beINSPORTS</channel>
+  <channel site="bein.com" site_id="sports#12" lang="en" xmltv_id="">beINSPORTS1EN</channel>
+  <channel site="bein.com" site_id="sports#13" lang="en" xmltv_id="">beINSPORTS2EN</channel>
+  <channel site="bein.com" site_id="sports#14" lang="en" xmltv_id="">beINSPORTS1FR</channel>
   <channel site="bein.com" site_id="entertainment#29" lang="en" xmltv_id="BeJunior.qa@SD">29</channel>
   <channel site="bein.com" site_id="entertainment#22" lang="en" xmltv_id="BloombergTV.us@MiddleEast">22</channel>
-  <channel site="bein.com" site_id="entertainment#33" lang="en" xmltv_id="CartoonNetworkArabic.ae@SD">33</channel>
-  <channel site="bein.com" site_id="entertainment#32" lang="en" xmltv_id="CartoonNetworkMENA.uk@SD">32</channel>
   <channel site="bein.com" site_id="entertainment#21" lang="en" xmltv_id="ClubMTVEurope.uk@SD">21</channel>
   <channel site="bein.com" site_id="entertainment#26" lang="en" xmltv_id="CNNArabic.ae@SD">26</channel>
   <channel site="bein.com" site_id="entertainment#28" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us@SD">28</channel>
@@ -71,11 +53,11 @@
   <channel site="bein.com" site_id="entertainment#30" lang="en" xmltv_id="JeemTV.qa@SD">30</channel>
   <channel site="bein.com" site_id="entertainment#19" lang="en" xmltv_id="MTV80s.uk@SD">19</channel>
   <channel site="bein.com" site_id="entertainment#20" lang="en" xmltv_id="MTV90s.uk@SD">20</channel>
-  <channel site="bein.com" site_id="entertainment#23" lang="en" xmltv_id="NationalGeographicMiddleEast.uk@SD">23</channel>
-  <channel site="bein.com" site_id="entertainment#24" lang="en" xmltv_id="NationalGeographicWildMiddleEast.uk@SD">24</channel>
+  <channel site="bein.com" site_id="entertainment#23" lang="en" xmltv_id="">beINJUNIOR</channel>
+  <channel site="bein.com" site_id="entertainment#24" lang="en" xmltv_id="">JeemTV</channel>
   <channel site="bein.com" site_id="entertainment#7" lang="en" xmltv_id="StarMoviesMiddleEast.ae@SD">7</channel>
   <channel site="bein.com" site_id="entertainment#16" lang="en" xmltv_id="StarWorldMiddleEast.ae@SD">16</channel>
-  <channel site="bein.com" site_id="entertainment#12" lang="en" xmltv_id="TravelChannelEMEA.uk@SD">12</channel>
+  <channel site="bein.com" site_id="entertainment#12" lang="en" xmltv_id="">beINGOURMET</channel>
   <channel site="beinsports.com" site_id="0F8D20A4-D46C-4B18-9242-8E7B3E978FF8" lang="en" xmltv_id="beINSports8.qa@MENA">beIN SPORTS 8</channel>
   <channel site="beinsports.com" site_id="2FB43094-3598-43C1-A3BA-44BFB40092E0" lang="en" xmltv_id="beINSportsMax1.qa@MENA">beIN SPORTS MAX 1</channel>
   <channel site="beinsports.com" site_id="5B15611A-5F9D-4EF0-89A6-677C9CA2BD5D" lang="en" xmltv_id="beINSportsMax4.qa@MENA">beIN SPORTS MAX 4</channel>
@@ -155,58 +137,89 @@
  <!-- OSN -->
 
 
-  <channel site="osn.com" site_id="APL" lang="en" xmltv_id="">OSN| Animal Planet</channel>
-  <channel site="osn.com" site_id="BLO" lang="en" xmltv_id="">OSN| Bloomberg Originals HD</channel>
-  <channel site="osn.com" site_id="DOC" lang="en" xmltv_id="">OSN| OSN TV Documentary</channel>
-  <channel site="osn.com" site_id="GMT" lang="en" xmltv_id="">OSN| Gametoon​</channel>
-  <channel site="osn.com" site_id="MCM" lang="en" xmltv_id="">OSN| MCM Top</channel>
-  <channel site="osn.com" site_id="MOT" lang="en" xmltv_id="">OSN| Motorvision</channel>
-  <channel site="osn.com" site_id="OBG" lang="en" xmltv_id="">OSN| OSNtv Crime</channel>
-  <channel site="osn.com" site_id="OCM" lang="en" xmltv_id="">OSN| OSNtv Movies Horror</channel>
-  <channel site="osn.com" site_id="OFM" lang="en" xmltv_id="">OSN| OSNtv Movies Family</channel>
-  <channel site="osn.com" site_id="OLH" lang="en" xmltv_id="">OSN| OSNtv Now</channel>
-  <channel site="osn.com" site_id="OMC" lang="en" xmltv_id="">OSN| OSNtv Movies Comedy</channel>
-  <channel site="osn.com" site_id="OST" lang="en" xmltv_id="">OSN| OSNtv Showcase Classics</channel>
-  <channel site="osn.com" site_id="OTO" lang="en" xmltv_id="">OSN| OSNtv One</channel>
-  <channel site="osn.com" site_id="POP" lang="en" xmltv_id="">OSN| OSNtv Pop up Love story</channel>
-  <channel site="osn.com" site_id="SER" lang="en" xmltv_id="AlfaSeries.ae@Plus2">OSN| Alfa Series Channel</channel>
-  <channel site="osn.com" site_id="SE2" lang="en" xmltv_id="AlfaSeries.ae@SD">OSN| Alfa Series +2</channel>
-  <channel site="osn.com" site_id="SAF" lang="en" xmltv_id="AlSafwa.ae@SD">OSN| Al Safwa</channel>
-  <channel site="osn.com" site_id="YAW" lang="en" xmltv_id="AlYawm.ae@SD">OSN| Alfa Al Yawm</channel>
-  <channel site="osn.com" site_id="BTV" lang="en" xmltv_id="BloombergTV.us@Europe">OSN| Bloomberg</channel>
-  <channel site="osn.com" site_id="TCN" lang="en" xmltv_id="CartoonNetworkArabic.ae@SD">OSN| Cartoon Network</channel>
-  <channel site="osn.com" site_id="CM1" lang="en" xmltv_id="Cinema1.ae@SD">OSN| Alfa Cinema 1</channel>
-  <channel site="osn.com" site_id="CM2" lang="en" xmltv_id="Cinema2.ae@SD">OSN| Alfa Cinema 2</channel>
-  <channel site="osn.com" site_id="COG" lang="en" xmltv_id="CinemaOneGlobal.ph@SD">OSN| Cinema One Global</channel>
-  <channel site="osn.com" site_id="CNN" lang="en" xmltv_id="CNNArabic.ae@SD">OSN| CNN</channel>
-  <channel site="osn.com" site_id="CAI" lang="en" xmltv_id="CrimePlusInvestigation.uk@SD">OSN| Crime &amp; Investigation Network</channel>
-  <channel site="osn.com" site_id="DSC" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us@SD">OSN| Discovery HD</channel>
-  <channel site="osn.com" site_id="FAN" lang="en" xmltv_id="Fann.ae@SD">OSN| Alfa Fann</channel>
-  <channel site="osn.com" site_id="FTF" lang="en" xmltv_id="Fatafeat.ae@SD">OSN| Fatafeat</channel>
-  <channel site="osn.com" site_id="HI2" lang="en" xmltv_id="History2MiddleEast.us@SD">OSN| H2 HD</channel>
-  <channel site="osn.com" site_id="HIS" lang="en" xmltv_id="HistoryMiddleEast.us@SD">OSN| History HD</channel>
-  <channel site="osn.com" site_id="DCX" lang="en" xmltv_id="InvestigationDiscoveryEurope.us@SD">OSN| Discovery ID</channel>
-  <channel site="osn.com" site_id="MBU" lang="en" xmltv_id="MoonbugKids.uk@SD">OSN| Moonbug Kids</channel>
-  <channel site="osn.com" site_id="NOW" lang="en" xmltv_id="MusicNow.ae@SD">OSN| Music Now</channel>
-  <channel site="osn.com" site_id="NIC" lang="en" xmltv_id="NickelodeonArabia.ae@SD">OSN| Nickelodeon HD</channel>
-  <channel site="osn.com" site_id="NJR" lang="en" xmltv_id="NickJrArabia.ae@SD">OSN| Nick Jr</channel>
-  <channel site="osn.com" site_id="NKT" lang="en" xmltv_id="NicktoonsArabia.ae@SD">OSN| NickToons HD</channel>
-  <channel site="osn.com" site_id="OCO" lang="en" xmltv_id="OSNComedy.ae@SD">OSN| OSNtv Comedy</channel>
-  <channel site="osn.com" site_id="OMK" lang="en" xmltv_id="OSNKids.ae@SD">OSN| OSNtv Kids</channel>
-  <channel site="osn.com" site_id="OMZ" lang="en" xmltv_id="OSNMezze.ae@SD">OSN| OSNtv Mezze</channel>
-  <channel site="osn.com" site_id="AHD" lang="en" xmltv_id="OSNMoviesAction.ae@SD">OSN| OSNtv Movies Action</channel>
-  <channel site="osn.com" site_id="OPR" lang="en" xmltv_id="OSNMoviesHollywood.ae@SD">OSN| OSNtv Movies Hollywood</channel>
-  <channel site="osn.com" site_id="OM1" lang="en" xmltv_id="OSNMoviesPremiere.ae@SD">OSN| OSNtv Movies Premiere</channel>
-  <channel site="osn.com" site_id="OFH" lang="en" xmltv_id="OSNShowcase.ae@SD">OSN| OSNtv Showcase</channel>
-  <channel site="osn.com" site_id="OYH" lang="en" xmltv_id="OSNYahala.ae@SD">OSN| OSNtv Yahala</channel>
-  <channel site="osn.com" site_id="OYC" lang="en" xmltv_id="OSNYahalaAflam.ae@SD">OSN| OSNtv Yahala Aflam</channel>
-  <channel site="osn.com" site_id="OYA" lang="en" xmltv_id="OSNYahalaBilArabi.ae@SD">OSN| OSNtv Yahala Bil Arabi</channel>
-  <channel site="osn.com" site_id="TLC" lang="en" xmltv_id="TLCArabia.us@SD">OSN| TLC HD</channel>
-
-
-  <!-- FR-->
-
-
+    <channel site="osn.com" site_id="204" lang="en" xmltv_id="">OSNtv One</channel>
+  <channel site="osn.com" site_id="206" lang="en" xmltv_id="">Blippi and Friends</channel>
+  <channel site="osn.com" site_id="208" lang="en" xmltv_id="">OSNtv Showcase Classics</channel>
+  <channel site="osn.com" site_id="221" lang="en" xmltv_id="">OSNtv iQIYI</channel>
+  <channel site="osn.com" site_id="225" lang="en" xmltv_id="">OSNtv Movies Horror</channel>
+  <channel site="osn.com" site_id="226" lang="en" xmltv_id="">OSNtv Pop Up 2</channel>
+  <channel site="osn.com" site_id="307" lang="en" xmltv_id="">OSNtv Crime</channel>
+  <channel site="osn.com" site_id="314" lang="en" xmltv_id="">OSNtv Documentary</channel>
+  <channel site="osn.com" site_id="1101" lang="en" xmltv_id="">KTV Channel 1 HD</channel>
+  <channel site="osn.com" site_id="4502" lang="en" xmltv_id="">OSNtv Now</channel>
+  <channel site="osn.com" site_id="5666" lang="en" xmltv_id="">OSNtv Movies Family</channel>
+  <channel site="osn.com" site_id="5669" lang="en" xmltv_id="">OSNtv Movies Comedy</channel>
+  <channel site="osn.com" site_id="5672" lang="en" xmltv_id="">OSNtv Pop Up</channel>
+  <channel site="osn.com" site_id="6607" lang="en" xmltv_id="">eClutch Access</channel>
+  <channel site="osn.com" site_id="6609" lang="en" xmltv_id="">Esport 24</channel>
+  <channel site="osn.com" site_id="6610" lang="en" xmltv_id="">eClutch LIVE</channel>
+  <channel site="osn.com" site_id="6611" lang="en" xmltv_id="">Padel TV</channel>
+  <channel site="osn.com" site_id="6612" lang="en" xmltv_id="">eClutch LIVE 2</channel>
+  <channel site="osn.com" site_id="6613" lang="en" xmltv_id="">eClutch Arabic</channel>
+  <channel site="osn.com" site_id="9957" lang="en" xmltv_id="">STV1 HD</channel>
+  <channel site="osn.com" site_id="9069" lang="en" xmltv_id="AbuDhabiSports1.ae@SD">AD Sports 1 HD</channel>
+  <channel site="osn.com" site_id="9939" lang="en" xmltv_id="AbuDhabiTV.ae@SD">Abu Dhabi TV HD</channel>
+  <channel site="osn.com" site_id="9970" lang="en" xmltv_id="AlarabiyaPortrait.ae@SD">Al Arabiya</channel>
+  <channel site="osn.com" site_id="9844" lang="en" xmltv_id="AlArabyTV2.qa@SD">Al Araby 2</channel>
+  <channel site="osn.com" site_id="3800" lang="en" xmltv_id="AlArabyTV.qa@SD">Al Araby TV</channel>
+  <channel site="osn.com" site_id="9910" lang="en" xmltv_id="AlHadath.sa@SD">Al Hadath</channel>
+  <channel site="osn.com" site_id="9963" lang="en" xmltv_id="AlQuranAlKareemTV.sa@SD">Al Quran Al Kareem TV HD</channel>
+  <channel site="osn.com" site_id="9043" lang="en" xmltv_id="AlraiTV.kw@SD">Al Rai TV</channel>
+  <channel site="osn.com" site_id="4505" lang="en" xmltv_id="AnimalPlanetEurope.uk@SD">Animal Planet HD</channel>
+  <channel site="osn.com" site_id="9013" lang="en" xmltv_id="BahrainTV.bh@SD">Bahrain TV</channel>
+  <channel site="osn.com" site_id="9099" lang="en" xmltv_id="BBCArabic.uk@SD">BBC World</channel>
+  <channel site="osn.com" site_id="4512" lang="en" xmltv_id="BloombergOriginals.us@SD">Bloomberg Originals</channel>
+  <channel site="osn.com" site_id="201" lang="en" xmltv_id="BloombergTV.us@MiddleEast">Bloomberg</channel>
+  <channel site="osn.com" site_id="9987" lang="en" xmltv_id="CartoonNetworkArabic.ae@SD">CN Arabia</channel>
+  <channel site="osn.com" site_id="4507" lang="en" xmltv_id="CartoonNetworkMENA.uk@SD">Cartoon Network HD</channel>
+  <channel site="osn.com" site_id="4504" lang="en" xmltv_id="CNNInternational.us@MENA">CNN HD</channel>
+  <channel site="osn.com" site_id="212" lang="en" xmltv_id="CrimePlusInvestigation.us@SD">C &amp; I</channel>
+  <channel site="osn.com" site_id="5665" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us@SD">Discovery Channel HD</channel>
+  <channel site="osn.com" site_id="9085" lang="en" xmltv_id="DMC.eg@SD">DMC HD</channel>
+  <channel site="osn.com" site_id="6603" lang="en" xmltv_id="DubaiTV.ae@SD">Dubai TV HD</channel>
+  <channel site="osn.com" site_id="4510" lang="en" xmltv_id="Fatafeat.ae@SD">Fatafeat</channel>
+  <channel site="osn.com" site_id="6606" lang="en" xmltv_id="Gametoon.nl@SD">Gametoon</channel>
+  <channel site="osn.com" site_id="6604" lang="en" xmltv_id="GINXTV.uk@SD">Ginx</channel>
+  <channel site="osn.com" site_id="5667" lang="en" xmltv_id="History2MiddleEast.us@SD">H2 HD</channel>
+  <channel site="osn.com" site_id="5661" lang="en" xmltv_id="HistoryMiddleEast.us@SD">History HD</channel>
+  <channel site="osn.com" site_id="5668" lang="en" xmltv_id="InvestigationDiscovery.uk@SD">Discovery IDX HD</channel>
+  <channel site="osn.com" site_id="9961" lang="en" xmltv_id="KSASports1.sa@SD">KSA Sports 1 HD</channel>
+  <channel site="osn.com" site_id="9908" lang="en" xmltv_id="MBC1.ae@SD">MBC 1</channel>
+  <channel site="osn.com" site_id="9971" lang="en" xmltv_id="MBC3.ae@SD">MBC 3</channel>
+  <channel site="osn.com" site_id="9995" lang="en" xmltv_id="MBC5.ae@SD">MBC 5</channel>
+  <channel site="osn.com" site_id="9976" lang="en" xmltv_id="MBCDrama.ae@SD">MBC Drama</channel>
+  <channel site="osn.com" site_id="9245" lang="en" xmltv_id="MBCIraq.iq@SD">MBC Iraq</channel>
+  <channel site="osn.com" site_id="9297" lang="en" xmltv_id="MBCMasr2.eg@SD">MBC Masr2</channel>
+  <channel site="osn.com" site_id="9933" lang="en" xmltv_id="MBCMasr.eg@SD">MBC Masr</channel>
+  <channel site="osn.com" site_id="411" lang="en" xmltv_id="MBCMood.sa@HD">MBC Mood</channel>
+  <channel site="osn.com" site_id="9699" lang="en" xmltv_id="MBCPlusDrama.sa@SD">MBC+ Drama</channel>
+  <channel site="osn.com" site_id="5664" lang="en" xmltv_id="MCMTop.fr@SD">MCM TOP</channel>
+  <channel site="osn.com" site_id="310" lang="en" xmltv_id="MoonbugKids.uk@SD">Moonbug Kids</channel>
+  <channel site="osn.com" site_id="305" lang="en" xmltv_id="MotorvisionPlus.de@SD">MOTORVISION</channel>
+  <channel site="osn.com" site_id="5663" lang="en" xmltv_id="NickelodeonArabia.ae@SD">Nickelodeon HD</channel>
+  <channel site="osn.com" site_id="5670" lang="en" xmltv_id="NickJrArabia.ae@SD">Nick Jr HD</channel>
+  <channel site="osn.com" site_id="5671" lang="en" xmltv_id="NicktoonsArabia.ae@SD">NickToons HD</channel>
+  <channel site="osn.com" site_id="9983" lang="en" xmltv_id="OmanTV.om@SD">Oman TV</channel>
+  <channel site="osn.com" site_id="4508" lang="en" xmltv_id="OSNComedy.ae@SD">OSNtv Comedy</channel>
+  <channel site="osn.com" site_id="4506" lang="en" xmltv_id="OSNKids.ae@SD">OSNtv Kids</channel>
+  <channel site="osn.com" site_id="4501" lang="en" xmltv_id="OSNMezze.ae@SD">OSNtv Mezze</channel>
+  <channel site="osn.com" site_id="302" lang="en" xmltv_id="OSNMoviesAction.ae@SD">OSNtv Movies Action</channel>
+  <channel site="osn.com" site_id="4503" lang="en" xmltv_id="OSNMoviesHollywood.ae@SD">OSNtv Movies Hollywood</channel>
+  <channel site="osn.com" site_id="301" lang="en" xmltv_id="OSNMoviesPremiere.ae@SD">OSNtv Movies Premiere</channel>
+  <channel site="osn.com" site_id="304" lang="en" xmltv_id="OSNShowcase.ae@SD">OSNtv Showcase</channel>
+  <channel site="osn.com" site_id="4509" lang="en" xmltv_id="OSNYahala.ae@SD">OSNtv Yahala</channel>
+  <channel site="osn.com" site_id="306" lang="en" xmltv_id="OSNYahalaAflam.ae@SD">OSNtv Yahala Aflam</channel>
+  <channel site="osn.com" site_id="309" lang="en" xmltv_id="OSNYahalaBilArabi.ae@SD">OSNtv Yahala Bil Arabi</channel>
+  <channel site="osn.com" site_id="222" lang="en" xmltv_id="RFMTV.fr@SD">RFM TV</channel>
+  <channel site="osn.com" site_id="9393" lang="en" xmltv_id="RoyaTV.jo@SD">Roya TV HD</channel>
+  <channel site="osn.com" site_id="7114" lang="en" xmltv_id="RT.ru@SD">RT English</channel>
+  <channel site="osn.com" site_id="9396" lang="en" xmltv_id="RTArabic.ru@SD">RT Arabic</channel>
+  <channel site="osn.com" site_id="9047" lang="en" xmltv_id="SaudiThaqafiyaTV.sa@SD">Al Thaqafeya</channel>
+  <channel site="osn.com" site_id="2015" lang="en" xmltv_id="SkyNewsArabia.ae@SD">Sky News Arabia HD</channel>
+  <channel site="osn.com" site_id="308" lang="en" xmltv_id="TLCArabia.us@SD">TLC HD</channel> 
+ 
+ 
+ <!-- FR-->
 
   <!-- SNRT -->
   <channel site="snrt.ma" site_id="1208" lang="ar" xmltv_id="AlAoula.ma@SD">AR| Al Aoula</channel>
